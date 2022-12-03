@@ -1,3 +1,12 @@
+---
+name: CFP Submissions
+about: Keep track of submitted CFPs
+title: ''
+labels: CFP
+assignees: ''
+
+---
+
 ## Event Details
 - Name of Event: 
 - Event Website: 
