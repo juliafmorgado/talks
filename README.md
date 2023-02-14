@@ -15,6 +15,7 @@ Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
 2-3 March '23 | Snowforce | [Salesforce in the Snow: Navigating Backup and Recovery in Challenging Conditions](https://github.com/juliafmorgado/talks/issues/13) | [Info/Register](https://snowforce.io/)
 17 March '23 | AWS Cloud Security Day | [Cloud Data Protection: The Ultimate Game of Cat and Mouse](https://github.com/juliafmorgado/talks/issues/14) | [Info/Register](https://www.aws-cscd.com/#about)
+22 - 24 May '23 | VeeamOn | Tips and Tricks for a Healthy Veeam Backup for AWS Environment | [Info/Register](https://www.veeam.com/veeamon)
 
 ## Past Talks
 
