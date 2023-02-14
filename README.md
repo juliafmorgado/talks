@@ -13,12 +13,14 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
-7-8 February '23 | Civo Navigate | [Is Kubernetes Too Complicated?](https://github.com/juliafmorgado/talks/blob/main/Is%20Kubernetes%20Too%20Complicated%3F/Abstract.md) | [Info/Register](https://www.civo.com/navigate)
+2-3 March '23 | Snowforce | [Salesforce in the Snow: Navigating Backup and Recovery in Challenging Conditions](https://github.com/juliafmorgado/talks/issues/13) | [Info/Register](https://snowforce.io/)
+17 March '23 | AWS Cloud Security Day | [Cloud Data Protection: The Ultimate Game of Cat and Mouse](https://github.com/juliafmorgado/talks/issues/14) | [Info/Register](https://www.aws-cscd.com/#about)
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
+7 Feb '23 | Civo Navigate | [Is Kubernetes Too Complicated?](https://github.com/juliafmorgado/talks/blob/main/Is%20Kubernetes%20Too%20Complicated%3F/Abstract.md) | [Slides](https://docs.google.com/presentation/d/1yPaR8aYS3ZqI8WDGLVgxIGwWKTzuGffA/edit#slide=id.p3) \| [Recording]()
 10 Nov '22 | All Day DevOps | [We Need More Contributors - My OSS Story](https://github.com/juliafmorgado/talks/blob/main/We%20Need%20More%20Contributors/Abstract.md) | [Slides](https://t.co/OqD7NnbnhK) \| [Recording](https://t.co/qVo5R9Blyz)
 
 
