@@ -22,7 +22,7 @@ Date & Time|Conference/Meetup|Title|Location
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
 7 Feb '23 | Civo Navigate | [Is Kubernetes Too Complicated?](https://github.com/juliafmorgado/talks/blob/main/Is%20Kubernetes%20Too%20Complicated%3F/Abstract.md) | [Slides](https://docs.google.com/presentation/d/1yPaR8aYS3ZqI8WDGLVgxIGwWKTzuGffA/edit#slide=id.p3) \| [Recording]()
-10 Nov '22 | All Day DevOps | [We Need More Contributors - My OSS Story](https://github.com/juliafmorgado/talks/blob/main/We%20Need%20More%20Contributors/Abstract.md) | [Slides](https://t.co/OqD7NnbnhK) \| [Recording](https://t.co/qVo5R9Blyz)
+10 Nov '22 | All Day DevOps | [We Need More Contributors - My OSS Story](https://github.com/juliafmorgado/talks/blob/main/We%20Need%20More%20Contributors/Abstract.md) | [Slides](https://t.co/OqD7NnbnhK) \| [Recording](https://www.alldaydevops.com/ondemand-2022speakers)
 
 
 ## Podcasts/Twitter Spaces/etc. (Appearances & Hosting)
