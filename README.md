@@ -14,6 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
 17 March '23 | AWS Cloud Security Day | [Cloud Data Protection: The Ultimate Game of Cat and Mouse](https://github.com/juliafmorgado/talks/issues/14) | [Info/Register](https://www.aws-cscd.com/#about)
+4-5 May '23 | DevOps Days Austin 2023 | [I Let A.I. Do DevOps — This Is What Happened]() | [Info/Register](https://devopsdays.org/events/2023-austin/welcome/)
 9-10 May '23 | DeveloperWeek Management 2023 | [Kubernetes 101: A Guide for Developers]() | [Info/Register](https://www.developerweek.com/global/conference/management/)
 22 - 24 May '23 | VeeamOn | [Tips and Tricks for a Healthy Veeam Backup for AWS Environment](https://github.com/juliafmorgado/talks/blob/main/Tips%20and%20Tricks%20for%20a%20Healthy%20Veeam%20Backup%20for%20AWS%20Environment/Abstract.md) | [Info/Register](https://www.veeam.com/veeamon)
 
