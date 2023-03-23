@@ -15,8 +15,10 @@ Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
 4-5 May '23 | DevOps Days Austin 2023 | [I Let A.I. Do DevOps — This Is What Happened]() | [Info/Register](https://devopsdays.org/events/2023-austin/welcome/)
 9-10 May '23 | DeveloperWeek Management 2023 | [Kubernetes 101: A Guide for Developers]() | [Info/Register](https://www.developerweek.com/global/conference/management/)
+9-12 May '23 | WomenTech Global Conference 2023 | [We need more contributors - my OSS story](https://www.womentech.net/speaker/Julia/Furst%20Morgado/85740?_se=anVsaWFmbW9yZ2Fkb0BnbWFpbC5jb20%3D) | [Info/Register](https://www.womentech.net/women-tech-conference)
 17-18 May '23 | KubeHuddle Toronto 2023 | [Is Kubernetes Too Complicated?]() | [Info/Register](https://kubehuddle.com/2023/toronto/)
-22 - 24 May '23 | VeeamOn | [Tips and Tricks for a Healthy Veeam Backup for AWS Environment](https://github.com/juliafmorgado/talks/blob/main/Tips%20and%20Tricks%20for%20a%20Healthy%20Veeam%20Backup%20for%20AWS%20Environment/Abstract.md) | [Info/Register](https://www.veeam.com/veeamon)
+22 - 24 May '23 | VeeamOn | [The Hitchhiker's Guide to Cloud Communities]() | [Info/Register](https://www.veeam.com/veeamon)
+22 - 24 May '23 | VeeamOn | [A Quick Start Guide to AWS, Azure & Google Cloud Backup]() | [Info/Register](https://www.veeam.com/veeamon)
 
 ## Past Talks
 
