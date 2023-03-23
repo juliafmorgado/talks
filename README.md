@@ -34,7 +34,7 @@ Date|Conference/Meetup|Talk|Slides/Demo/Recording
 
 Date|Medium|Episode #|Title
 :--:|:-----:|:-------:|:----:
-10 Mar '23 | Podcast | N/A | [A wealth of skills, dedicated to DevRel](https://voxgig.substack.com/p/julia-furst-morgado-a-wealth-of-skills)
+10 Mar '23 | Podcast | N/A | [A wealth of skills, dedicated to DevRel](https://www.voxgig.com/podcast/julia-furst-morgado-march-2023-global-technologist-veeam)
 28 Aug '22 | Twitter Space | N/A | [Getting into DevRel](https://twitter.com/i/spaces/1YqJDqNjpYLxV)
 28 Jul '22 | Twitter Space | N/A | [Open Source 101 - Women in Tech](https://twitter.com/i/spaces/1PlJQaDYqdXJE)
 27 Jul '22 | Twitter Space | N/A | [Tech Writing as a Career](https://twitter.com/virtualized6ix/status/1552253444723200001?s=20&t=Clsi3spzoB8NIn4m4taL6g)
