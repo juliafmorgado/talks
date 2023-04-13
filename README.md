@@ -19,11 +19,14 @@ Date & Time|Conference/Meetup|Title|Location
 17-18 May '23 | KubeHuddle Toronto 2023 | [Is Kubernetes Too Complicated?]() | [Info/Register](https://kubehuddle.com/2023/toronto/)
 22 - 24 May '23 | VeeamOn | [The Hitchhiker's Guide to Cloud Communities]() | [Info/Register](https://www.veeam.com/veeamon)
 22 - 24 May '23 | VeeamOn | [A Quick Start Guide to AWS, Azure & Google Cloud Backup]() | [Info/Register](https://www.veeam.com/veeamon)
+14 June '23 | AWS Summit Toronto | [Breaking Bad... Habits on AWS]() | [Info/Register](https://aws.amazon.com/events/summits/toronto/)
+
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
+13 April '23 | AWS User Group Lisbon | Hack-Proof Your Cloud Environment
 17 March '23 | AWS Cloud Security Day | Cloud Data Protection: The Ultimate Game of Cat and Mouse
 2-3 March '23 | Snowforce | [Salesforce in the Snow: Navigating Backup and Recovery in Challenging Conditions](https://snowforce.io/)
 7 Feb '23 | Civo Navigate | [Is Kubernetes Too Complicated?](https://github.com/juliafmorgado/talks/blob/main/Is%20Kubernetes%20Too%20Complicated%3F/Abstract.md) | [Slides](https://docs.google.com/presentation/d/1yPaR8aYS3ZqI8WDGLVgxIGwWKTzuGffA/edit#slide=id.p3) \| [Recording]()
