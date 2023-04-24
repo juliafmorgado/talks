@@ -20,12 +20,14 @@ Date & Time|Conference/Meetup|Title|Location
 22 - 24 May '23 | VeeamOn | [The Hitchhiker's Guide to Cloud Communities]() | [Info/Register](https://www.veeam.com/veeamon)
 22 - 24 May '23 | VeeamOn | [A Quick Start Guide to AWS, Azure & Google Cloud Backup]() | [Info/Register](https://www.veeam.com/veeamon)
 14 June '23 | AWS Summit Toronto | [Breaking Bad... Habits on AWS]() | [Info/Register](https://aws.amazon.com/events/summits/toronto/)
+15 June '23 | AWS Midwest Community Day | [Breaking Bad... Habits on AWS]() | [Info/Register](https://www.midwestcommunityday.com/)
 
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
+26 April '23 | AWS User Group Prague | Hack-Proof Your Cloud Environment
 13 April '23 | AWS User Group Lisbon | Hack-Proof Your Cloud Environment
 17 March '23 | AWS Cloud Security Day | Cloud Data Protection: The Ultimate Game of Cat and Mouse
 2-3 March '23 | Snowforce | [Salesforce in the Snow: Navigating Backup and Recovery in Challenging Conditions](https://snowforce.io/)
