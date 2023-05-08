@@ -13,7 +13,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
-4-5 May '23 | DevOps Days Austin 2023 | [I Let A.I. Do DevOps — This Is What Happened]() | [Info/Register](https://devopsdays.org/events/2023-austin/welcome/)
 9-10 May '23 | DeveloperWeek Management 2023 | [Kubernetes 101: A Guide for Developers]() | [Info/Register](https://www.developerweek.com/global/conference/management/)
 9-12 May '23 | WomenTech Global Conference 2023 | [We need more contributors - my OSS story](https://www.womentech.net/speaker/Julia/Furst%20Morgado/85740?_se=anVsaWFmbW9yZ2Fkb0BnbWFpbC5jb20%3D) | [Info/Register](https://www.womentech.net/women-tech-conference)
 17-18 May '23 | KubeHuddle Toronto 2023 | [Is Kubernetes Too Complicated?]() | [Info/Register](https://kubehuddle.com/2023/toronto/)
@@ -21,12 +20,15 @@ Date & Time|Conference/Meetup|Title|Location
 22 - 24 May '23 | VeeamOn | [A Quick Start Guide to AWS, Azure & Google Cloud Backup]() | [Info/Register](https://www.veeam.com/veeamon)
 14 June '23 | AWS Summit Toronto | [Breaking Bad... Habits on AWS]() | [Info/Register](https://aws.amazon.com/events/summits/toronto/)
 15 June '23 | AWS Midwest Community Day | [Breaking Bad... Habits on AWS]() | [Info/Register](https://www.midwestcommunityday.com/)
+28-29 July '23 | We Are Developers | [Fail It Until You Make It: A Practical Approach to Chaos Engineering]() | [Info/Register](https://www.wearedevelopers.com/world-congress/)
 
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
+5 May '23 | DevOps Days Austin 2023 | I Let A.I. Do DevOps — This Is What Happened
+3 May '23 | M365 Conference | Protect Microsoft 365 Data with Immutability and Monitoring
 26 April '23 | AWS User Group Prague | Hack-Proof Your Cloud Environment
 13 April '23 | AWS User Group Lisbon | Hack-Proof Your Cloud Environment
 17 March '23 | AWS Cloud Security Day | Cloud Data Protection: The Ultimate Game of Cat and Mouse
@@ -39,6 +41,7 @@ Date|Conference/Meetup|Talk|Slides/Demo/Recording
 
 Date|Medium|Episode #|Title
 :--:|:-----:|:-------:|:----:
+11 May '23 | Live Stream | N/A | [KubeSkills Live Stream]()
 10 Mar '23 | Podcast | N/A | [A wealth of skills, dedicated to DevRel](https://www.voxgig.com/podcast/julia-furst-morgado-march-2023-global-technologist-veeam)
 28 Aug '22 | Twitter Space | N/A | [Getting into DevRel](https://twitter.com/i/spaces/1YqJDqNjpYLxV)
 28 Jul '22 | Twitter Space | N/A | [Open Source 101 - Women in Tech](https://twitter.com/i/spaces/1PlJQaDYqdXJE)
