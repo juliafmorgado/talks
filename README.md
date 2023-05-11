@@ -41,7 +41,7 @@ Date|Conference/Meetup|Talk|Slides/Demo/Recording
 
 Date|Medium|Episode #|Title
 :--:|:-----:|:-------:|:----:
-11 May '23 | Live Stream | N/A | [KubeSkills Live Stream]()
+11 May '23 | Live Stream | N/A | [KubeSkills Live Stream](https://www.youtube.com/watch?v=5adaq_KYRlU)
 10 Mar '23 | Podcast | N/A | [A wealth of skills, dedicated to DevRel](https://www.voxgig.com/podcast/julia-furst-morgado-march-2023-global-technologist-veeam)
 28 Aug '22 | Twitter Space | N/A | [Getting into DevRel](https://twitter.com/i/spaces/1YqJDqNjpYLxV)
 28 Jul '22 | Twitter Space | N/A | [Open Source 101 - Women in Tech](https://twitter.com/i/spaces/1PlJQaDYqdXJE)
