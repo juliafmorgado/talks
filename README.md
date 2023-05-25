@@ -13,9 +13,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date & Time|Conference/Meetup|Title|Location
 :---------:|:---------------:|:---:|:-------:
-17-18 May '23 | KubeHuddle Toronto 2023 | [Is Kubernetes Too Complicated?]() | [Info/Register](https://kubehuddle.com/2023/toronto/)
-22 - 24 May '23 | VeeamOn | [The Hitchhiker's Guide to Cloud Communities]() | [Info/Register](https://www.veeam.com/veeamon)
-22 - 24 May '23 | VeeamOn | [A Quick Start Guide to AWS, Azure & Google Cloud Backup]() | [Info/Register](https://www.veeam.com/veeamon)
 14 June '23 | AWS Summit Toronto | [Breaking Bad... Habits on AWS]() | [Info/Register](https://aws.amazon.com/events/summits/toronto/)
 15 June '23 | AWS Midwest Community Day | [Breaking Bad... Habits on AWS]() | [Info/Register](https://www.midwestcommunityday.com/)
 28-29 July '23 | We Are Developers | [Fail It Until You Make It: A Practical Approach to Chaos Engineering]() | [Info/Register](https://www.wearedevelopers.com/world-congress/)
@@ -25,6 +22,9 @@ Date & Time|Conference/Meetup|Title|Location
 
 Date|Conference/Meetup|Talk|Slides/Demo/Recording
 :---------:|:---------------:|:--:|:--------------------:
+22-24 May '23 | VeeamOn | [The Hitchhiker's Guide to Cloud Communities]() |
+22-24 May '23 | VeeamOn | [A Quick Start Guide to AWS, Azure & Google Cloud Backup]() |
+17-18 May '23 | KubeHuddle Toronto 2023 | [Is Kubernetes Too Complicated?]() |
 10 May '23 | WomenTech Global Conference 2023 | [We need more contributors - my OSS story](https://www.womentech.net/speaker/Julia/Furst%20Morgado/85740?_se=anVsaWFmbW9yZ2Fkb0BnbWFpbC5jb20%3D) | 
 10 May '23 | DeveloperWeek Management 2023 (Keynote)| [Kubernetes 101: A Guide for Developers]() | 
 5 May '23 | DevOps Days Austin 2023 | I Let A.I. Do DevOps — This Is What Happened
@@ -37,12 +37,14 @@ Date|Conference/Meetup|Talk|Slides/Demo/Recording
 10 Nov '22 | All Day DevOps (Keynote)| [We Need More Contributors - My OSS Story](https://github.com/juliafmorgado/talks/blob/main/We%20Need%20More%20Contributors/Abstract.md) | [Slides](https://t.co/OqD7NnbnhK) \| [Recording](https://www.alldaydevops.com/ondemand-2022speakers)
 
 
-## Podcasts/Twitter Spaces/etc. (Appearances & Hosting)
+## Podcasts/Articles/etc. (Appearances & Hosting)
 
-Date|Medium|Episode #|Title
-:--:|:-----:|:-------:|:----:
-11 May '23 | Live Stream | N/A | [KubeSkills Live Stream](https://www.youtube.com/watch?v=5adaq_KYRlU)
-10 Mar '23 | Podcast | N/A | [A wealth of skills, dedicated to DevRel](https://www.voxgig.com/podcast/julia-furst-morgado-march-2023-global-technologist-veeam)
-28 Aug '22 | Twitter Space | N/A | [Getting into DevRel](https://twitter.com/i/spaces/1YqJDqNjpYLxV)
-28 Jul '22 | Twitter Space | N/A | [Open Source 101 - Women in Tech](https://twitter.com/i/spaces/1PlJQaDYqdXJE)
-27 Jul '22 | Twitter Space | N/A | [Tech Writing as a Career](https://twitter.com/virtualized6ix/status/1552253444723200001?s=20&t=Clsi3spzoB8NIn4m4taL6g)
+Date|Medium|Title
+:-----:|:-----:|:-------:|:-------------:
+24 May '23 | Feature Article (PT) | [Veeam
+ evangelist, Brazilian Julia F Morgado inspires women](https://itforum.com.br/noticias/veeam-julia-morgado-mulheres-carreira/)
+11 May '23 | Live Stream | [KubeSkills Live Stream](https://www.youtube.com/watch?v=5adaq_KYRlU)
+10 Mar '23 | Podcast | [A wealth of skills, dedicated to DevRel](https://www.voxgig.com/podcast/julia-furst-morgado-march-2023-global-technologist-veeam)
+28 Aug '22 | Twitter Space | [Getting into DevRel](https://twitter.com/i/spaces/1YqJDqNjpYLxV)
+28 Jul '22 | Twitter Space | [Open Source 101 - Women in Tech](https://twitter.com/i/spaces/1PlJQaDYqdXJE)
+27 Jul '22 | Twitter Space | [Tech Writing as a Career](https://twitter.com/virtualized6ix/status/1552253444723200001?s=20&t=Clsi3spzoB8NIn4m4taL6g)
