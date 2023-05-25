@@ -40,9 +40,8 @@ Date|Conference/Meetup|Talk|Slides/Demo/Recording
 ## Podcasts/Articles/etc. (Appearances & Hosting)
 
 Date|Medium|Title
-:-----:|:-----:|:-------:|:-------------:
-24 May '23 | Feature Article (PT) | [Veeam
- evangelist, Brazilian Julia F Morgado inspires women](https://itforum.com.br/noticias/veeam-julia-morgado-mulheres-carreira/)
+:-----:|:-----:|:-------:
+24 May '23 | Feature Article (PT) | [Julia F Morgado inspires women who want to change careers](https://itforum.com.br/noticias/veeam-julia-morgado-mulheres-carreira/)
 11 May '23 | Live Stream | [KubeSkills Live Stream](https://www.youtube.com/watch?v=5adaq_KYRlU)
 10 Mar '23 | Podcast | [A wealth of skills, dedicated to DevRel](https://www.voxgig.com/podcast/julia-furst-morgado-march-2023-global-technologist-veeam)
 28 Aug '22 | Twitter Space | [Getting into DevRel](https://twitter.com/i/spaces/1YqJDqNjpYLxV)
