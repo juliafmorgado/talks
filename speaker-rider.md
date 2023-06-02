@@ -1,9 +1,7 @@
 # Speaker Rider
 by [Julia Furst Morgado](https://www.juliafmorgado.com/).
 
-> Last updated October 10th 2022
-
-Before I'll agree to speaking at a conference, meetup, or event, I research to make sure that it aligns with my goals of inclusion and diversity in the tech community.
+> Last updated June 3rd 2023
 
 I love speaking at events, and am so grateful to organizers who ask me to participate! I feel so privileged to be considered, and want to use that privilege to help the tech community be as inclusive as possible, where everyone can feel represented.
 
