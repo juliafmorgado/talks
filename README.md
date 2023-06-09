@@ -17,6 +17,7 @@ Date & Time|Conference/Meetup|Title|Location
 15 June '23 | AWS Midwest Community Day | [Breaking Bad... Habits on AWS]() | [Info/Register](https://www.midwestcommunityday.com/)
 28 July '23 | HashiTalks: Brasil | [Superando um Ataque de Ransomware com a Ajuda do Terraform, Vault e Veeam]() | [Info/Register](https://events.hashicorp.com/hashitalksbrasil)
 28-29 July '23 | We Are Developers | [Fail It Until You Make It: A Practical Approach to Chaos Engineering]() | [Info/Register](https://www.wearedevelopers.com/world-congress/)
+27 September '23 | DevOps World | [AI Risks to the Marketplace]() | [Info/Register](https://www.devopsworld.com/)
 
 
 ## Past Talks
