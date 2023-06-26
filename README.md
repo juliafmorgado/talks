@@ -14,20 +14,22 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       | Location                                      | 
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|:---------------------------------------------:|
-| 14 June '23  | AWS Summit Toronto      | Breaking Bad... Habits on AWS                           | [Info/Register](https://aws.amazon.com/events/summits/toronto/)     | 
-| 15 June '23  | AWS Midwest Community Day| Breaking Bad... Habits on AWS                           | [Info/Register](https://www.midwestcommunityday.com/)               | 
 | 28 July '23  | HashiTalks: Brasil      | Superando um Ataque de Ransomware com a Ajuda do Terraform, Vault e Veeam | [Info/Register](https://events.hashicorp.com/hashitalksbrasil) | 
 | 28-29 July '23 | We Are Developers     | Fail It Until You Make It: A Practical Approach to Chaos Engineering  | [Info/Register](https://www.wearedevelopers.com/world-congress/)  | 
-| 27 September '23 | DevOps World         | The AI Power in Shaping the Future of Testing, DevOps, and Beyond in the Marketplace             | [Info/Register](https://www.devopsworld.com/)               | 
+| 12 September '23 | VeeamOn Tours Argentina | Panorama del backup en AWS, Azure y Google Cloud con breve demostración  | [Info/Register]()  | 
+| 19 September '23 | VeeamOn Tours Brasil | Porque o gerenciamento de dados de aplicações do Kubernetes é essencial para escalar com segurança no uso de aplicações de nuvem nativa?  | [Info/Register]()  | 
+| 27 September '23 | DevOps World         | The AI Power in Shaping the Future of Testing, DevOps, and Beyond in the Marketplace             | [Info/Register](https://www.devopsworld.com/)               
 
 
 
 ## Past Talks
 
-Date|Conference/Meetup|Talk|Slides/Demo/Recording
-:---------:|:---------------:|:--:|:--------------------:
-22-24 May '23 | VeeamOn | [The Hitchhiker's Guide to Cloud Communities]() |
-22-24 May '23 | VeeamOn | [A Quick Start Guide to AWS, Azure & Google Cloud Backup]() |
+Date|Conference/Meetup|Talk
+:---------:|:---------------:|:--:|
+15 June '23  | AWS Midwest Community Day| [Breaking Bad... Habits on AWS](https://www.youtube.com/watch?v=W_n0fGVXDzE&list=PLsOF-eBKEpbcIJEGmzRHAQIIWj3LprXJo&index=11) |
+14 June '23  | AWS Summit Toronto      | Breaking Bad... Habits on AWS |
+22-24 May '23 | VeeamOn | The Hitchhiker's Guide to Cloud Communities |
+22-24 May '23 | VeeamOn | A Quick Start Guide to AWS, Azure & Google Cloud Backup |
 17-18 May '23 | KubeHuddle Toronto 2023 | [Is Kubernetes Too Complicated?]() |
 10 May '23 | WomenTech Global Conference 2023 | [We need more contributors - my OSS story](https://www.womentech.net/speaker/Julia/Furst%20Morgado/85740?_se=anVsaWFmbW9yZ2Fkb0BnbWFpbC5jb20%3D) | 
 10 May '23 | DeveloperWeek Management 2023 (Keynote)| [Kubernetes 101: A Guide for Developers]() | 
@@ -37,8 +39,8 @@ Date|Conference/Meetup|Talk|Slides/Demo/Recording
 13 April '23 | AWS User Group Lisbon | Hack-Proof Your Cloud Environment
 17 March '23 | AWS Cloud Security Day | Cloud Data Protection: The Ultimate Game of Cat and Mouse
 2-3 March '23 | Snowforce | [Salesforce in the Snow: Navigating Backup and Recovery in Challenging Conditions](https://snowforce.io/)
-7 Feb '23 | Civo Navigate | [Is Kubernetes Too Complicated?](https://github.com/juliafmorgado/talks/blob/main/Is%20Kubernetes%20Too%20Complicated%3F/Abstract.md) | [Slides](https://docs.google.com/presentation/d/1yPaR8aYS3ZqI8WDGLVgxIGwWKTzuGffA/edit#slide=id.p3) \| [Recording]()
-10 Nov '22 | All Day DevOps (Keynote)| [We Need More Contributors - My OSS Story](https://github.com/juliafmorgado/talks/blob/main/We%20Need%20More%20Contributors/Abstract.md) | [Slides](https://t.co/OqD7NnbnhK) \| [Recording](https://www.alldaydevops.com/ondemand-2022speakers)
+7 Feb '23 | Civo Navigate | [Is Kubernetes Too Complicated?](https://github.com/juliafmorgado/talks/blob/main/Is%20Kubernetes%20Too%20Complicated%3F/Abstract.md) 
+10 Nov '22 | All Day DevOps (Keynote)| [We Need More Contributors - My OSS Story](https://www.alldaydevops.com/ondemand-2022speakers) | 
 
 
 ## Podcasts/Articles/etc. (Appearances & Hosting)
