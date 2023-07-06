@@ -15,10 +15,10 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 | Date & Time  | Conference/Meetup       | Title                                                       | Location                                      | 
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|:---------------------------------------------:|
 | 28 July '23  | HashiTalks: Brasil      | Superando um Ataque de Ransomware com a Ajuda do Terraform, Vault e Veeam | [Info/Register](https://events.hashicorp.com/hashitalksbrasil) | 
-| 28-29 July '23 | We Are Developers     | Fail It Until You Make It: A Practical Approach to Chaos Engineering  | [Info/Register](https://www.wearedevelopers.com/world-congress/)  | 
 | 12 September '23 | VeeamOn Tours Argentina | Panorama del backup en AWS, Azure y Google Cloud con breve demostración  | [Info/Register]()  | 
 | 19 September '23 | VeeamOn Tours Brasil | Porque o gerenciamento de dados de aplicações do Kubernetes é essencial para escalar com segurança no uso de aplicações de nuvem nativa?  | [Info/Register]()  | 
-| 27 September '23 | DevOps World         | The AI Power in Shaping the Future of Testing, DevOps, and Beyond in the Marketplace             | [Info/Register](https://www.devopsworld.com/)               
+| 27 September '23 | DevOps World         | The AI Power in Shaping the Future of Testing, DevOps, and Beyond in the Marketplace             | [Info/Register](https://www.devopsworld.com/) |
+| 14-17 November '23 | PASS Data Community Summit    | Introduction to Database DevOps             | [Info/Register](https://passdatacommunitysummit.com/) |
 
 
 
