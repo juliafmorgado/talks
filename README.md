@@ -47,6 +47,7 @@ Date|Conference/Meetup|Talk
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
+26 June '23 | Video Interview | [Meet Julia Furst Morgado – CNCF Ambassador](https://www.youtube.com/watch?v=QP7pT0_qE7M)
 23 June '23 | VM Blog | [Celebrating International Women in Engineering Day - INWED 2023](https://vmblog.com/archive/2023/06/23/celebrating-international-women-in-engineering-day-inwed-2023.aspx)
 24 May '23 | Feature Article (PT) | [Julia F Morgado inspires women who want to change careers](https://itforum.com.br/noticias/veeam-julia-morgado-mulheres-carreira/)
 11 May '23 | Live Stream | [KubeSkills Live Stream](https://github.com/kubeskills/yt/blob/main/2023/May/20230511-Accessibility-in-Tech-and-Kubernetes-with-Julia-Furst-Morgado.md)
