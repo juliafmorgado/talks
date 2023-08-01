@@ -31,7 +31,7 @@ Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
 28 July '23  | HashiTalks: Brasil      | [Superando um Ataque de Ransomware com a Ajuda do Terraform, Vault e Veeam]() | 
 15 June '23  | AWS Midwest Community Day| [Breaking Bad... Habits on AWS](https://www.youtube.com/watch?v=W_n0fGVXDzE&list=PLsOF-eBKEpbcIJEGmzRHAQIIWj3LprXJo&index=11) |
-14 June '23  | AWS Summit Toronto      | Breaking Bad... Habits on AWS |
+14 June '23  | AWS Summit Toronto      | [Breaking Bad... Habits on AWS](https://youtu.be/CcF3_8Py9Lk) |
 22-24 May '23 | VeeamOn | The Hitchhiker's Guide to Cloud Communities |
 22-24 May '23 | VeeamOn | A Quick Start Guide to AWS, Azure & Google Cloud Backup |
 17-18 May '23 | KubeHuddle Toronto 2023 | [Is Kubernetes Too Complicated?]() |
