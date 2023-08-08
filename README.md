@@ -29,7 +29,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
-28 July '23  | HashiTalks: Brasil      | [Superando um Ataque de Ransomware com a Ajuda do Terraform, Vault e Veeam]() | 
+28 July '23  | HashiTalks: Brasil      | [Superando um Ataque de Ransomware com a Ajuda do Terraform, Vault e Veeam](https://www.youtube.com/watch?v=awlfPU-qvb8&list=PL81sUbsFNc5agdrEMDtU6IGyxBMv6Fq8i&index=8) | 
 15 June '23  | AWS Midwest Community Day| [Breaking Bad... Habits on AWS](https://www.youtube.com/watch?v=W_n0fGVXDzE&list=PLsOF-eBKEpbcIJEGmzRHAQIIWj3LprXJo&index=11) |
 14 June '23  | AWS Summit Toronto      | [Breaking Bad... Habits on AWS](https://youtu.be/CcF3_8Py9Lk) |
 22-24 May '23 | VeeamOn | The Hitchhiker's Guide to Cloud Communities |
