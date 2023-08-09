@@ -43,7 +43,7 @@ Date|Conference/Meetup|Talk
 13 April '23 | AWS User Group Lisbon | Hack-Proof Your Cloud Environment
 17 March '23 | AWS Cloud Security Day | Cloud Data Protection: The Ultimate Game of Cat and Mouse
 2-3 March '23 | Snowforce | [Salesforce in the Snow: Navigating Backup and Recovery in Challenging Conditions](https://snowforce.io/)
-7 Feb '23 | Civo Navigate | [Is Kubernetes Too Complicated?](https://github.com/juliafmorgado/talks/blob/main/Is%20Kubernetes%20Too%20Complicated%3F/Abstract.md) 
+7 Feb '23 | Civo Navigate | [Is Kubernetes Too Complicated?](https://www.youtube.com/watch?v=I2j-eIm5CwE) 
 10 Nov '22 | All Day DevOps (Keynote)| [We Need More Contributors - My OSS Story](https://www.alldaydevops.com/ondemand-2022speakers) | 
 
 
