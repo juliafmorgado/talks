@@ -14,7 +14,8 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       | Location                                      | 
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|:---------------------------------------------:|
-| 16 August '23 | Veeam Global Webinar | Cutting Cloud Costs | [Info/Register]() | 
+| 16 August '23 | Veeam Global Webinar | Cutting Cloud Costs | [Info/Register](https://go.veeam.com/webinar-considerations-for-cutting-cloud-costs?ccode=externaljulia) | 
+| 7 September '23 | Veeam Global Webinar | See how Veeam Data Platform aids in ransomware recovery | [Info/Register]() | 
 | 12 September '23 | VeeamOn Tours Argentina | Panorama del backup en AWS, Azure y Google Cloud con breve demostración  | [Info/Register](https://go.veeam.com/veeamon-tour-2023-argentina)  | 
 | 14 September '23 | The bAWSton User Group  | Breaking Bad... Habits on AWS    | [Info/Register](https://www.meetup.com/the-boston-amazon-web-services-meetup-group/) |
 | 19 September '23 | VeeamOn Tours Brasil | Porque o gerenciamento de dados de aplicações do Kubernetes é essencial para escalar com segurança no uso de aplicações de nuvem nativa?  | [Info/Register](https://go.veeam.com/veeamon-tour-2023-brasil)  | 
