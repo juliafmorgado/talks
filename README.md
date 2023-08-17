@@ -21,7 +21,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 | 19 September '23 | VeeamOn Tours Brasil | Porque o gerenciamento de dados de aplicações do Kubernetes é essencial para escalar com segurança no uso de aplicações de nuvem nativa?  | [Info/Register](https://go.veeam.com/veeamon-tour-2023-brasil)  | 
 | 21 September '23 | Veeam Webinar  | Hybrid Cloud - LEGO Activation   | [Info/Register]() |
 | 27 September '23 | DevOps World  | The AI Power in Shaping the Future of Testing, DevOps, and Beyond in the Marketplace             | [Info/Register](https://www.devopsworld.com/) |
-| 12 October '23 | Cloud and Serverless Turkey  | Breaking Bad... Habits on AWS      | [Info/Register](https://kommunity.com/cloud-turkey/events) |
+| 12 October '23 | Cloud and Serverless Turkey  | Breaking Bad... Habits on AWS      | [Info/Register](https://kommunity.com/cloud-turkey/events/october-istanbul-aws-breaking-bad-habits-scalable-saas-architectures-a3594011) |
 | 14-17 November '23 | PASS Data Community Summit    | Introduction to Database DevOps             | [Info/Register](https://passdatacommunitysummit.com/) |
 
 
@@ -30,6 +30,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+16 August '23 | Veeam Global Webinar | [Cutting Cloud Costs](https://youtu.be/FtsB5oOJ05g)  | 
 28 July '23  | HashiTalks: Brasil      | [Superando um Ataque de Ransomware com a Ajuda do Terraform, Vault e Veeam](https://www.youtube.com/watch?v=awlfPU-qvb8&list=PL81sUbsFNc5agdrEMDtU6IGyxBMv6Fq8i&index=8) | 
 15 June '23  | AWS Midwest Community Day| [Breaking Bad... Habits on AWS](https://www.youtube.com/watch?v=W_n0fGVXDzE&list=PLsOF-eBKEpbcIJEGmzRHAQIIWj3LprXJo&index=11) |
 14 June '23  | AWS Summit Toronto      | [Breaking Bad... Habits on AWS](https://youtu.be/CcF3_8Py9Lk) |
