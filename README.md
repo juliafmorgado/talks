@@ -16,7 +16,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|:---------------------------------------------:|
 | 22 August '23 | NYC CISO Transformation Roadshow | Ransomware in the Enterprise: Cyber resiliency lessons from 1,200 successful attacks  | [Info/Register](https://events.bizzabo.com/nyc-ciso-0822/home?widget=true) | 
 | 5 September '23 | Veeam Global Webinar with ActualTech Media| Breaking Bad Habits on AWS | [Info/Register]() | 
-| 7 September '23 | Veeam Global Webinar | See how Veeam Data Platform aids in ransomware recovery | [Info/Register]() | 
+| 7 September '23 | Veeam Global Webinar | See how Veeam Data Platform aids in ransomware recovery | [Info/Register](https://veeam.webex.com/webappng/sites/veeam/meeting/register/53d96d9ebb6a458ea6126bb442aaa801?ticket=4832534b00000006bc6d620cceb4fb6eae097dc1a40b485c60da1072582bbde4b94bfc0c3421a5dd&timestamp=1692648235096&RGID=r6b453742777fa3eb60b573c2ce96cae3) | 
 | 12 September '23 | VeeamOn Tours Argentina | Panorama del backup en AWS, Azure y Google Cloud con breve demostración  | [Info/Register](https://go.veeam.com/veeamon-tour-2023-argentina)  | 
 | 14 September '23 | The bAWSton User Group  | Breaking Bad... Habits on AWS    | [Info/Register](https://www.meetup.com/the-boston-amazon-web-services-meetup-group/) |
 | 19 September '23 | VeeamOn Tours Brasil | Porque o gerenciamento de dados de aplicações do Kubernetes é essencial para escalar com segurança no uso de aplicações de nuvem nativa?  | [Info/Register](https://go.veeam.com/veeamon-tour-2023-brasil)  | 
