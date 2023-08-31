@@ -21,8 +21,9 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 | 19 September '23 | VeeamOn Tours Brasil | Porque o gerenciamento de dados de aplicações do Kubernetes é essencial para escalar com segurança no uso de aplicações de nuvem nativa?  | [Info/Register](https://go.veeam.com/veeamon-tour-2023-brasil)  | 
 | 21 September '23 | Veeam Webinar  | Hybrid Cloud - LEGO Activation   | [Info/Register]() |
 | 27 September '23 | DevOps World  | The AI Power in Shaping the Future of Testing, DevOps, and Beyond in the Marketplace             | [Info/Register](https://www.devopsworld.com/) |
+| 28 September '23 | Conf42: Kube Native 2023  | Kubernetes for the Virtualization Admin      | [Info/Register](https://www.conf42.com/Kube_Native_2023_Julia_Furst_Morgado_kubernetes_virtualization_admin) |
 | 12 October '23 | Cloud and Serverless Turkey  | Breaking Bad... Habits on AWS      | [Info/Register](https://kommunity.com/cloud-turkey/events/october-istanbul-aws-breaking-bad-habits-scalable-saas-architectures-a3594011) |
-| 14-17 November '23 | PASS Data Community Summit    | Introduction to Database DevOps             | [Info/Register](https://passdatacommunitysummit.com/) |
+| 7 November '23 | KubeCon NA 23 | From Non-Tech to CNCF Ambassador     | [Info/Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/) |
 
 
 
