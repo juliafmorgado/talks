@@ -14,15 +14,15 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       | Location                                      | 
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|:---------------------------------------------:|
-| 12 September '23 | VeeamOn Tour Argentina | Panorama del backup en AWS, Azure y Google Cloud con breve demostración  | [Info/Register](https://go.veeam.com/veeamon-tour-2023-argentina)  | 
-| 14 September '23 | The bAWSton User Group  | Breaking Bad... Habits on AWS    | [Info/Register](https://www.meetup.com/the-boston-amazon-web-services-meetup-group/) |
-| 19 September '23 | VeeamOn Tour Brasil | Proteção e gerenciamento de dados de aplicações Kubernetes para escalar com segurança | [Info/Register](https://go.veeam.com/veeamon-tour-2023-brasil)  | 
-| 19 September '23 | VeeamOn Tour Brasil | Veeam Data Platform, uma solução completa para Hybrid Cloud  | [Info/Register](https://go.veeam.com/veeamon-tour-2023-brasil)  | 
-| 21 September '23 | Veeam Webinar  | Hybrid Cloud - LEGO Activation   | [Info/Register]() |
 | 27 September '23 | DevOps World  | The AI Power in Shaping the Future of Testing, DevOps, and Beyond in the Marketplace             | [Info/Register](https://www.devopsworld.com/) |
 | 28 September '23 | Conf42: Kube Native 2023  | Kubernetes for the Virtualization Admin      | [Info/Register](https://www.conf42.com/Kube_Native_2023_Julia_Furst_Morgado_kubernetes_virtualization_admin) |
 | 12 October '23 | Cloud and Serverless Turkey  | Breaking Bad... Habits on AWS      | [Info/Register](https://kommunity.com/cloud-turkey/events/october-istanbul-aws-breaking-bad-habits-scalable-saas-architectures-a3594011) |
 | 7 November '23 | KubeCon NA 23 | From Non-Tech to CNCF Ambassador     | [Info/Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/) |
+| 7 November '23 | Chicago Private CIO & CISO Transformation Dinner | Veeam & AWS | [Info/Register](https://events.bizzabo.com/chi-ciso-1108) |
+| 14 November '23 | Seattle Private CIO & CISO Transformation Dinner | Veeam & AWS |  [Info/Register](https://events.bizzabo.com/sea-ciso-1114) |
+| 7 November '23 | Chicago Private CIO & CISO Transformation Dinner | Veeam & AWS |  [Info/Register](https://events.bizzabo.com/sf-cio-assembly-1115/home) |
+| 27 November '23 | AWS re:Invent | Cloud Security, Data Responsibility, and Recovery: ​10 Key Strategies​ | [Info/Register](https://reinvent.awsevents.com/) |
+
 
 
 
@@ -30,6 +30,11 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 21 September '23 | Veeam Webinar  | Hybrid Cloud - LEGO Activation   | 
+19 September '23 | VeeamOn Tour Brasil | Veeam Data Platform, uma solução completa para Hybrid Cloud  |
+19 September '23 | VeeamOn Tour Brasil | Proteção e gerenciamento de dados de aplicações Kubernetes para escalar com segurança |
+14 September '23 | The bAWSton User Group  | [Breaking Bad... Habits on AWS](https://www.meetup.com/the-boston-amazon-web-services-meetup-group/events/296036681)   |
+12 September '23 | VeeamOn Tour Argentina | Panorama del backup en AWS, Azure y Google Cloud con breve demostración |
 7 September '23 | Veeam Global Webinar | See how Veeam Data Platform aids in ransomware recovery |
 5 September '23 | Veeam Global Webinar with ActualTech Media| Breaking Bad Habits on AWS |
 22 August '23 | NYC CISO Transformation Roadshow | [Ransomware in the Enterprise: Cyber resiliency lessons from 1,200 successful attacks]()  | 
