@@ -16,9 +16,9 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|:---------------------------------------------:|
 | 12 October '23 | Cloud and Serverless Turkey  | Breaking Bad... Habits on AWS      | [Info/Register](https://kommunity.com/cloud-turkey/events/october-istanbul-aws-breaking-bad-habits-scalable-saas-architectures-a3594011) |
 | 7 November '23 | KubeCon NA 23 | From Non-Tech to CNCF Ambassador     | [Info/Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/) |
-| 7 November '23 | Chicago Private CIO & CISO Transformation Dinner | Veeam & AWS | [Info/Register](https://events.bizzabo.com/chi-ciso-1108) |
-| 14 November '23 | Seattle Private CIO & CISO Transformation Dinner | Veeam & AWS |  [Info/Register](https://events.bizzabo.com/sea-ciso-1114) |
-| 7 November '23 | Chicago Private CIO & CISO Transformation Dinner | Veeam & AWS |  [Info/Register](https://events.bizzabo.com/sf-cio-assembly-1115/home) |
+| 8 November '23 | Chicago Private CIO & CISO Transformation Dinner | Veeam & AWS | [Info/Register](https://events.bizzabo.com/chi-ciso-1108) |
+| 14 November '23 | San Francisco Private CIO & CISO Transformation Dinner | Veeam & AWS |  [Info/Register](https://events.bizzabo.com/sf-cio-assembly-1115/home) |
+| 15 November '23 | Seattle Private CIO & CISO Transformation Dinner | Veeam & AWS |  [Info/Register](https://events.bizzabo.com/sea-ciso-1114) |
 | 27 November '23 | AWS re:Invent | Cloud Security, Data Responsibility, and Recovery: ​10 Key Strategies​ | [Info/Register](https://reinvent.awsevents.com/) |
 
 
