@@ -14,7 +14,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       | Location                                      | 
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|:---------------------------------------------:|
-| 12 October '23 | Cloud and Serverless Turkey  | Breaking Bad... Habits on AWS      | [Info/Register](https://kommunity.com/cloud-turkey/events/october-istanbul-aws-breaking-bad-habits-scalable-saas-architectures-a3594011) |
 | 7 November '23 | KubeCon NA 23 | From Non-Tech to CNCF Ambassador     | [Info/Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/) |
 | 8 November '23 | Chicago Private CIO & CISO Transformation Dinner | Veeam & AWS | [Info/Register](https://events.bizzabo.com/chi-ciso-1108) |
 | 14 November '23 | San Francisco Private CIO & CISO Transformation Dinner | Veeam & AWS |  [Info/Register](https://events.bizzabo.com/sf-cio-assembly-1115/home) |
@@ -28,6 +27,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+12 October '23 | Cloud and Serverless Turkey  | [Breaking Bad... Habits on AWS](https://kommunity.com/cloud-turkey/events/october-istanbul-aws-breaking-bad-habits-scalable-saas-architectures-a3594011)      |
 28 September '23 | Conf42: Kube Native 2023  | Kubernetes for the Virtualization Admin  |
 27 September '23 | DevOps World  | The AI Power in Shaping the Future of Testing, DevOps, and Beyond in the Marketplace  |
 21 September '23 | Veeam Webinar  | Hybrid Cloud - LEGO Activation   | 
