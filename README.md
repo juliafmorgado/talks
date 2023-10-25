@@ -28,7 +28,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
 12 October '23 | Cloud and Serverless Turkey  | [Breaking Bad... Habits on AWS](https://kommunity.com/cloud-turkey/events/october-istanbul-aws-breaking-bad-habits-scalable-saas-architectures-a3594011)      |
-28 September '23 | Conf42: Kube Native 2023  | Kubernetes for the Virtualization Admin  |
+28 September '23 | Conf42: Kube Native 2023  | [Kubernetes for the Virtualization Admin](https://www.conf42.com/Kube_Native_2023_Julia_Furst_Morgado_kubernetes_virtualization_admin)  |
 27 September '23 | DevOps World  | The AI Power in Shaping the Future of Testing, DevOps, and Beyond in the Marketplace  |
 21 September '23 | Veeam Webinar  | Hybrid Cloud - LEGO Activation   | 
 19 September '23 | VeeamOn Tour Brasil | Veeam Data Platform, uma solução completa para Hybrid Cloud  |
