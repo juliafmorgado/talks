@@ -21,6 +21,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 27 November '23 | AWS re:Invent | [Cloud Security, Data Responsibility, and Recovery: ​10 Key Strategies​](https://www.youtube.com/watch?v=EyWK7AXM5LI) |
 | 23 November '23 | Kasten and EKS - Santiago | Veeam & AWS |
 | 21 November '23 | Kasten and EKS - Buenos Aires | Veeam & AWS | 
 | 17 November '23 | AWS & Veeam Event - Medellín | Veeam & AWS | 
