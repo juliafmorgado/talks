@@ -14,7 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       | Location                                      | 
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|:---------------------------------------------:|
-| 12 December '23 | KCD S | Radical Resiliency in 2024 with Tarah Wheeler | [Info/Register]() |
+| 12 December '23 | Veeam Webinar | Preparing Radical Resiliency in 2024 with Tarah Wheeler | [Info/Register]() |
 | 13 December '23 | KCD Spain | De No-Tech a Embajadora de la CNCF: Tú También Puedes Logralo! | [Info/Register](https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2023/) |
 
 
