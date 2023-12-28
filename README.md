@@ -14,14 +14,14 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       | Location                                      | 
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|:---------------------------------------------:|
-| 12 December '23 | Veeam Webinar | Preparing Radical Resiliency in 2024 with Tarah Wheeler | [Info/Register]() |
-| 13 December '23 | KCD Spain | De No-Tech a Embajadora de la CNCF: Tú También Puedes Logralo! | [Info/Register](https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2023/) |
 
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 13 December '23 | KCD Spain | [De No-Tech a Embajadora de la CNCF: Tú También Puedes Logralo!](https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2023/) |
+| 12 December '23 | Veeam Webinar | Preparing Radical Resiliency in 2024 with Tarah Wheeler | 
 | 27 November '23 | AWS re:Invent | [Cloud Security, Data Responsibility, and Recovery: ​10 Key Strategies​](https://www.youtube.com/watch?v=EyWK7AXM5LI) |
 | 23 November '23 | Kasten and EKS - Santiago | Veeam & AWS |
 | 21 November '23 | Kasten and EKS - Buenos Aires | Veeam & AWS | 
