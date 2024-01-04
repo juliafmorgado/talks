@@ -12,9 +12,10 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 ## Up Next
 
 
-| Date & Time  | Conference/Meetup       | Title                                                       | Location                                      | 
-|:------------:|:-----------------------:|:-----------------------------------------------------------:|:---------------------------------------------:|
-
+| Date & Time  | Conference/Meetup       | Title                                                       |
+|:------------:|:-----------------------:|:-----------------------------------------------------------:|
+| 1 February '24 | Veeam 100 Show | [91 Restore Scenarios](https://community.veeam.com/events) |
+| 13 February '24 | KCD Brazil | [Minha Jornada De Nao Técnica a Embaixadora da CNCF](https://community.cncf.io/kcd-brasil/) | 
 
 ## Past Talks
 
