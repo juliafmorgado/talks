@@ -14,13 +14,16 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 1 February '24 | Veeam 100 Show | [91 Restore Scenarios](https://community.veeam.com/events) |
-| 13 February '24 | KCD Brazil | [Minha Jornada De Nao Técnica a Embaixadora da CNCF](https://community.cncf.io/kcd-brasil/) | 
+| 23 February '24 | KCD Brazil | [Minha Jornada De Nao Técnica a Embaixadora da CNCF](https://community.cncf.io/kcd-brasil/) | 
+| 1 March '24 | KCD Costa Rica | [De No-Tech a Embajadora de la CNCF: Tú También Puedes Logralo!](https://community.cncf.io/events/details/cncf-kcd-costa-rica-presents-kcd-costa-rica-2024/) |
+| 26 March '24 | AWS User Group Lisbon | [Women in Tech Panel](https://www.meetup.com/aws-user-group-lisbon/) |
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 8 February '24 | Veeam 100 Show | [Jornada de aprendizado sobre proteção de dados com a Veeam](https://www.youtube.com/playlist?list=PL0afnnnx_OVCcbjmNM9gNAGmVMokbRZTu) | 
+| 7 February '24 | Veeam Webinar | Veeam e AWS: Backup e Recuperação Seguros para Combater o Ransomware | 
 | 13 December '23 | KCD Spain | [De No-Tech a Embajadora de la CNCF: Tú También Puedes Logralo!](https://community.cncf.io/events/details/cncf-kcd-spain-presents-kcd-spain-2023/) |
 | 12 December '23 | Veeam Webinar | Preparing Radical Resiliency in 2024 with Tarah Wheeler | 
 | 27 November '23 | AWS re:Invent | [Cloud Security, Data Responsibility, and Recovery: ​10 Key Strategies​](https://www.youtube.com/watch?v=EyWK7AXM5LI) |
