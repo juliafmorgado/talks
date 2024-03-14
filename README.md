@@ -18,6 +18,8 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 | 12 April '24 | AWS Community Day - Security Edition | [You're Hit by a Ransomware Attack, What's Next?](https://www.aws-cscd.com/) |
 | 16 April '24 | Open Source Summit North America 2024 | [Beyond Code: Recognizing the Crucial Role of 'Glue Work' in Open Source](https://events.linuxfoundation.org/open-source-summit-north-america/) |
 | 16 April '24 | Open Source Summit North America 2024 | [A Polyglot's Journey: Insights from My Multilingual Localization Contributions](https://events.linuxfoundation.org/open-source-summit-north-america/) |
+| 7 May '24 | AWS Community Day Nordics 2024 | [Securing Your Kubernetes Clusters, Workloads and Data on Amazon EKS](https://awscommunitynordics.org/communityday/) |
+| 15-16 May '24 | AWS Summit Berlin | [Managing EKS Clusters at Scale using Blueprints and Infrastructure as Code](https://aws.amazon.com/events/summits/emea/berlin/) |
 | 22 May '24 | KCD New York | [Closing Remarks](https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024/) |
 
 ## Past Talks
