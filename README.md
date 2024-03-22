@@ -28,6 +28,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 21 March '24 | Veeam TechBites | [LIVE from KubeCon + CloudNativeCon Europe](https://www.linkedin.com/events/livefromkubecon-cloudnativecone7170901180489945088/theater/) |
 | 1 March '24 | KCD Costa Rica | [De No-Tech a Embajadora de la CNCF: Tú También Puedes Logralo!](https://community.cncf.io/events/details/cncf-kcd-costa-rica-presents-kcd-costa-rica-2024/) |
 | 23 February '24 | KCD Brazil | [Minha Jornada De Nao Técnica a Embaixadora da CNCF](https://community.cncf.io/kcd-brasil/) |
 | 8 February '24 | Veeam 100 Show | [Jornada de aprendizado sobre proteção de dados com a Veeam](https://www.youtube.com/playlist?list=PL0afnnnx_OVCcbjmNM9gNAGmVMokbRZTu) | 
