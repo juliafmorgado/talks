@@ -14,8 +14,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 26 March '24 | AWS User Group Lisbon | [Women in Tech Panel](https://www.meetup.com/aws-user-group-lisbon/) |
-| 29 March '24 | Cloud Native Bootcamp Valencia College | What is Cloud Native and How Can You Get Involved |
 | 12 April '24 | AWS Community Day - Security Edition | [You're Hit by a Ransomware Attack, What's Next?](https://www.aws-cscd.com/) |
 | 16 April '24 | Open Source Summit North America 2024 | [Beyond Code: Recognizing the Crucial Role of 'Glue Work' in Open Source](https://events.linuxfoundation.org/open-source-summit-north-america/) |
 | 16 April '24 | Open Source Summit North America 2024 | [A Polyglot's Journey: Insights from My Multilingual Localization Contributions](https://events.linuxfoundation.org/open-source-summit-north-america/) |
@@ -28,6 +26,8 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 29 March '24 | Cloud Native Bootcamp Valencia College | What is Cloud Native and How Can You Get Involved |
+| 26 March '24 | AWS User Group Lisbon | [Women in Tech Panel](https://www.meetup.com/aws-user-group-lisbon/) |
 | 21 March '24 | Veeam TechBites | [LIVE from KubeCon + CloudNativeCon Europe](https://www.linkedin.com/events/livefromkubecon-cloudnativecone7170901180489945088/theater/) |
 | 1 March '24 | KCD Costa Rica | [De No-Tech a Embajadora de la CNCF: Tú También Puedes Logralo!](https://community.cncf.io/events/details/cncf-kcd-costa-rica-presents-kcd-costa-rica-2024/) |
 | 23 February '24 | KCD Brazil | [Minha Jornada De Nao Técnica a Embaixadora da CNCF](https://community.cncf.io/kcd-brasil/) |
