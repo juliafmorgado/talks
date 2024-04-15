@@ -21,6 +21,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 | 15-16 May '24 | AWS Summit Berlin | [Managing EKS Clusters at Scale using Blueprints and Infrastructure as Code](https://aws.amazon.com/events/summits/emea/berlin/) |
 | 22 May '24 | KCD New York | [Closing Remarks](https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024/) |
 | 3-5 June '24 | VeeamOn | [What's Next for Cloud Builders](https://www.veeam.com/veeamon) |
+| 13 June '24 | AWS Midwest Community Day | [Managing EKS Clusters at Scale using Blueprints and Infrastructure as Code](https://www.midwestcommunityday.com/) |
 
 ## Past Talks
 
