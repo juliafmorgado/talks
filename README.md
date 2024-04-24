@@ -14,11 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 16 April '24 | Open Source Summit North America 2024 | [Beyond Code: Recognizing the Crucial Role of 'Glue Work' in Open Source](https://events.linuxfoundation.org/open-source-summit-north-america/) |
-| 16 April '24 | Open Source Summit North America 2024 | [A Polyglot's Journey: Insights from My Multilingual Localization Contributions](https://events.linuxfoundation.org/open-source-summit-north-america/) |
-| 22 April '24 | Vancouver Cloud Summit 2024 - Keynote | [Head in the Clouds, Feet on the Ground: Practical Cloud Migration with Robust Data Protection](https://www.cloudsummit.ca/) |
-| 7 May '24 | AWS Community Day Nordics 2024 | [Securing Your Kubernetes Clusters, Workloads and Data on Amazon EKS](https://awscommunitynordics.org/communityday/) |
-| 15-16 May '24 | AWS Summit Berlin | [Managing EKS Clusters at Scale using Blueprints and Infrastructure as Code](https://aws.amazon.com/events/summits/emea/berlin/) |
+| 9 May '24 | KCD Argentina | [De No-Tech a Embajadora de la CNCF: Tú También Puedes Logralo!](https://community.cncf.io/events/details/cncf-kcd-argentina-presents-kcd-argentina-buenos-aires/) |
 | 22 May '24 | KCD New York | [Closing Remarks](https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024/) |
 | 3-5 June '24 | VeeamOn | [What's Next for Cloud Builders](https://www.veeam.com/veeamon) |
 | 13 June '24 | AWS Midwest Community Day | [Managing EKS Clusters at Scale using Blueprints and Infrastructure as Code](https://www.midwestcommunityday.com/) |
@@ -27,6 +23,8 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 16 April '24 | Open Source Summit North America 2024 | [Beyond Code: Recognizing the Crucial Role of 'Glue Work' in Open Source](https://events.linuxfoundation.org/open-source-summit-north-america/) |
+| 16 April '24 | Open Source Summit North America 2024 | [A Polyglot's Journey: Insights from My Multilingual Localization Contributions](https://events.linuxfoundation.org/open-source-summit-north-america/) |
 | 12 April '24 | AWS Community Day - Security Edition | [You're Hit by a Ransomware Attack, What's Next?](https://www.aws-cscd.com/) |
 | 29 March '24 | Cloud Native Bootcamp Valencia College | What is Cloud Native and How Can You Get Involved |
 | 26 March '24 | AWS User Group Lisbon | [Women in Tech Panel](https://www.meetup.com/aws-user-group-lisbon/) |
