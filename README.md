@@ -17,6 +17,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 | 9 May '24 | KCD Argentina | [De No-Tech a Embajadora de la CNCF: Tú También Puedes Logralo!](https://community.cncf.io/events/details/cncf-kcd-argentina-presents-kcd-argentina-buenos-aires/) |
 | 22 May '24 | KCD New York | [Closing Remarks](https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024/) |
 | 3-5 June '24 | VeeamOn | [What's Next for Cloud Builders](https://www.veeam.com/veeamon) |
+| 6 June '24 | DeveloperWeek Global 2024 | [Kubernetes 101: A Guide for Developers](https://www.developerweek.com/global/) |
 | 13 June '24 | AWS Midwest Community Day | [Managing EKS Clusters at Scale using Blueprints and Infrastructure as Code](https://www.midwestcommunityday.com/) |
 
 ## Past Talks
