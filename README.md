@@ -67,7 +67,7 @@ Date|Conference/Meetup|Talk
 22-24 May '23 | VeeamOn | A Quick Start Guide to AWS, Azure & Google Cloud Backup |
 17-18 May '23 | KubeHuddle Toronto 2023 | [Is Kubernetes Too Complicated?]() |
 10 May '23 | WomenTech Global Conference 2023 | [We need more contributors - my OSS story](https://www.womentech.net/we-need-more-contributors-my-oss-story) | 
-10 May '23 | DeveloperWeek Management 2023 (Keynote)| [Kubernetes 101: A Guide for Developers]() | 
+10 May '23 | DeveloperWeek Management 2023 (Keynote)| [Kubernetes 101: A Guide for Developers](https://youtu.be/PKDbt_EvSKM) | 
 5 May '23 | DevOps Days Austin 2023 | I Let A.I. Do DevOps — This Is What Happened
 3 May '23 | M365 Conference | Protect Microsoft 365 Data with Immutability and Monitoring
 26 April '23 | AWS User Group Prague | Hack-Proof Your Cloud Environment
