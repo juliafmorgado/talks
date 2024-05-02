@@ -19,6 +19,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 | 3-5 June '24 | VeeamOn | [What's Next for Cloud Builders](https://www.veeam.com/veeamon) |
 | 6 June '24 | DeveloperWeek Global 2024 | [Kubernetes 101: A Guide for Developers](https://www.developerweek.com/global/) |
 | 13 June '24 | AWS Midwest Community Day | [Managing EKS Clusters at Scale using Blueprints and Infrastructure as Code](https://www.midwestcommunityday.com/) |
+| 10 July '24 | AWS Summit NY | [How Amazon Q is Reshaping Work with Generative AI](https://aws.amazon.com/events/summits/new-york/) |
 
 ## Past Talks
 
