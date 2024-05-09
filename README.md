@@ -14,7 +14,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 9 May '24 | KCD Argentina | [De No-Tech a Embajadora de la CNCF: Tú También Puedes Logralo!](https://community.cncf.io/events/details/cncf-kcd-argentina-presents-kcd-argentina-buenos-aires/) |
 | 22 May '24 | KCD New York | [Closing Remarks](https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024/) |
 | 3-5 June '24 | VeeamOn | [What's Next for Cloud Builders](https://www.veeam.com/veeamon) |
 | 6 June '24 | DeveloperWeek Global 2024 | [Kubernetes 101: A Guide for Developers](https://www.developerweek.com/global/) |
@@ -25,6 +24,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 9 May '24 | KCD Argentina | [De No-Tech a Embajadora de la CNCF: Tú También Puedes Logralo!](https://community.cncf.io/events/details/cncf-kcd-argentina-presents-kcd-argentina-buenos-aires/) |
 | 16 April '24 | Open Source Summit North America 2024 | [Beyond Code: Recognizing the Crucial Role of 'Glue Work' in Open Source](https://www.youtube.com/watch?v=PqJ38wJO89M) |
 | 16 April '24 | Open Source Summit North America 2024 | [A Polyglot's Journey: Insights from My Multilingual Localization Contributions](https://www.youtube.com/watch?v=Rvy6rjoQ5wg) |
 | 12 April '24 | AWS Community Day - Security Edition | [You're Hit by a Ransomware Attack, What's Next?](https://www.aws-cscd.com/) |
