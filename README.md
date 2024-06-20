@@ -14,14 +14,14 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-
-| 13 June '24 | AWS Midwest Community Day | [Managing EKS Clusters at Scale using Blueprints and Infrastructure as Code](https://www.midwestcommunityday.com/) |
+| 4 July '24 | VUG Monaco | [Veeam Community and Veeam Backup for AWS](https://community.veeam.com/groups/vug-france-72) |
 | 10 July '24 | AWS Summit NY | [Amazon Q to the ResQ in Streamlining Development, Debugging, and More!](https://aws.amazon.com/events/summits/new-york/) |
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 13 June '24 | AWS Midwest Community Day | [Managing EKS Clusters at Scale using Blueprints and Infrastructure as Code](https://www.midwestcommunityday.com/) |
 | 22 May '24 | KCD New York | [Keynote and Closing Remarks](https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2024/) |
 | 3-5 June '24 | VeeamOn | [Breaking Bad Habits on the Cloud](https://www.veeam.com/veeamon) |
 | 6 June '24 | DeveloperWeek Global 2024 | [Kubernetes 101: A Guide for Developers](https://www.developerweek.com/global/) |
