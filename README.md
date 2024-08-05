@@ -14,7 +14,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 25 July '24 | Veeam Tech Bites | [Effective Approaches to Cloud Backup Plus What’s New from Veeam](https://www.youtube.com/@veeam/streams) |
 | 15 August '24 | Veeam & Prodatix Webinar | [Immutable Data Backup - The Only Ransomware Protection]() |
 | 28 August '24 | AWS Community Day New York 2024 | [Keynote](https://www.awscommunitynewyork.com/) |
 | 17 September '24 | AWS Community Day DACH 2024 | [Enhancing Kubernetes Application Availability with Karpenter](https://www.aws-community-day.de/) |
@@ -23,6 +22,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 25 July '24 | Veeam Tech Bites | [Effective Approaches to Cloud Backup Plus What’s New from Veeam](https://www.youtube.com/@veeam/streams) |
 | 10 July '24 | AWS Summit NY | [Amazon Q to the ResQ in Streamlining Development, Debugging, and More!](https://aws.amazon.com/events/summits/new-york/) |
 | 4 July '24 | VUG Monaco | [Veeam Community and Veeam Backup for AWS](https://community.veeam.com/groups/vug-france-72) |
 | 13 June '24 | AWS Midwest Community Day | [Managing EKS Clusters at Scale using Blueprints and Infrastructure as Code](https://www.midwestcommunityday.com/) |
