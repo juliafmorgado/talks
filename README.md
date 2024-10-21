@@ -14,7 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 12 October '24 | [KCD Chattogram 2024](https://community.cncf.io/kcd-chattogram/) | Become a Cloud Native Expert in 20 Minutes |
+| 22 October '24 | [DevOps Cloud Junction](https://www.meetup.com/devopscloudjunction/events/304091003) | Cloud Native Q&A |
 | 24 October '24 | Veeam Montréal | Cyber Resilience Workshop |
 | 30 October '24 | Veeam 100 |  Veeam Backup for Public Cloud Updates |
 | December '24 | Veeam Megacast webinar |  Disaster Recovery and Backup in the Cloud |
@@ -24,6 +24,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 12 October '24 | [KCD Chattogram 2024](https://community.cncf.io/kcd-chattogram/) | Become a Cloud Native Expert in 20 Minutes |
 | 17 September '24 | [AWS Community Day DACH 2024](https://www.aws-community-day.de/) | Enhancing Kubernetes Application Availability with Karpenter |
 | 28 August '24 | AWS Community Day New York 2024 | [Keynote](https://www.awscommunitynewyork.com/) |
 | 25 July '24 | Veeam Tech Bites | [Effective Approaches to Cloud Backup Plus What’s New from Veeam](https://www.youtube.com/@veeam/streams) |
