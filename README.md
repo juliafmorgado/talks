@@ -19,6 +19,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 | 30 October '24 | Veeam 100 |  Veeam Backup for Public Cloud Updates |
 | December '24 | Veeam Megacast webinar |  Disaster Recovery and Backup in the Cloud |
 | 5 December '24 | [AWS re:Invent](https://reinvent.awsevents.com/) | Demystifying containers on AWS: What's right for you? |
+| ? | Where should I go next? |  ? |
 
 ## Past Talks
 
