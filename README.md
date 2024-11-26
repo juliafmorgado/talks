@@ -14,15 +14,14 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 21 November '24 | Veeam Toronto | Cyber Resilience Workshop |
-| December '24 | Veeam Megacast webinar |  Disaster Recovery and Backup in the Cloud |
+| 4 December '24 | Veeam Megacast webinar |  Disaster Recovery and Backup in the Cloud |
 | 5 December '24 | [AWS re:Invent](https://reinvent.awsevents.com/) | Demystifying containers on AWS: What's right for you? |
-| ? | Where should I go next? |  ? |
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 21 November '24 | Veeam Toronto | Cyber Resilience Workshop |
 | 30 October '24 | Veeam 100 |  Veeam Backup for Public Cloud Updates |
 | 24 October '24 | Veeam Montréal | Cyber Resilience Workshop |
 | 22 October '24 | [DevOps Cloud Junction](https://www.meetup.com/devopscloudjunction/events/304091003) | Cloud Native Q&A |
