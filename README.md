@@ -14,13 +14,17 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 4 December '24 | Veeam Megacast webinar |  Disaster Recovery and Backup in the Cloud |
-| 5 December '24 | [AWS re:Invent](https://reinvent.awsevents.com/) | Demystifying containers on AWS: What's right for you? |
+
+
+
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 9 December '24 | [Women in Tech Fireside Chat](https://www.linkedin.com/events/inspiringthenextgeneration-wome7269588592136503297/theater/) | Julia Furst Morgado and Karinne Bessette |
+| 5 December '24 | [AWS re:Invent](https://reinvent.awsevents.com/) | Demystifying containers on AWS: What's right for you? |
+| 4 December '24 | Veeam Megacast webinar |  Disaster Recovery and Backup in the Cloud |
 | 21 November '24 | Veeam Toronto | Cyber Resilience Workshop |
 | 30 October '24 | Veeam 100 |  Veeam Backup for Public Cloud Updates |
 | 24 October '24 | Veeam Montréal | Cyber Resilience Workshop |
