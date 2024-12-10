@@ -97,7 +97,7 @@ Date|Conference/Meetup|Talk
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
-13 November '24 | Interview by Bart Farrell | [Road to KubeCon NA 2024 - Julia Furst Morgado](https://canvasrebel.com/meet-julia-furst-morgado/)
+13 November '24 | Interview by Bart Farrell | [Road to KubeCon NA 2024 - Julia Furst Morgado](https://podcasters.spotify.com/pod/show/the-landscape/episodes/Road-to-KubeCon-NA-2024---Julia-Furst-Morgado-e2queqa)
 8 January '24 | CanvasRebel Interview | [Meet Julia Furst Morgado](https://canvasrebel.com/meet-julia-furst-morgado/)
 25 September '23 | KodeKloud Live Interview | [Breaking Barriers: Navigating Tech Transitions and Flourishing in Tech Communities](https://www.youtube.com/watch?v=KVOw08KQvCM)
 26 June '23 | Live Interview | [Meet Julia Furst Morgado – CNCF Ambassador](https://www.youtube.com/watch?v=QP7pT0_qE7M)
