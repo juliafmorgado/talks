@@ -22,7 +22,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
-| 9 December '24 | [Women in Tech Fireside Chat](https://www.linkedin.com/events/inspiringthenextgeneration-wome7269588592136503297/theater/) | Julia Furst Morgado and Karinne Bessette |
+| 9 December '24 | [Women in Tech](https://women-in-tech.org/) | [Fireside Chat with Julia Furst Morgado and Karinne Bessette](https://www.linkedin.com/events/inspiringthenextgeneration-wome7269588592136503297/theater/) |
 | 5 December '24 | [AWS re:Invent](https://reinvent.awsevents.com/) | [Demystifying containers on AWS: What's right for you?](https://www.youtube.com/watch?v=CBfMUlswNjQ) |
 | 4 December '24 | Veeam Megacast webinar |  Disaster Recovery and Backup in the Cloud |
 | 21 November '24 | Veeam Toronto | Cyber Resilience Workshop |
