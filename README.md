@@ -14,7 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-
+| 16 January '24 | [HashiTalks: América Latina](https://events.hashicorp.com/hashitalksamericalatina) | Asegurando y Escalando AWS con Terraform, Vault y Veeam: Una Guía Práctica |
 
 
 
