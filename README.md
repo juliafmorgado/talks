@@ -14,7 +14,8 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 16 January '24 | [HashiTalks: América Latina](https://events.hashicorp.com/hashitalksamericalatina) | Asegurando y Escalando AWS con Terraform, Vault y Veeam: Una Guía Práctica |
+| 8 January '25 | [CNCF WomanInTech Webinar](https://community.cncf.io/events/details/cncf-cloud-native-santiago-presents-womanintech-camino-hacia-el-mundo-tecnologico/) | Camino hacia el mundo Tecnológico|
+| 16 January '25 | [HashiTalks: América Latina](https://events.hashicorp.com/hashitalksamericalatina) | Asegurando y Escalando AWS con Terraform, Vault y Veeam: Una Guía Práctica |
 
 
 
