@@ -14,6 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
+| 6-7 March '25 | [Elevate Conference](https://girlgeek.io/conferences/elevate-2025-march-intl-womens-day/) | Turning Glue Work to Your Advantage |
 | 28 March '25 | [Sem Servidor Conf](https://semservidor.com.br/sem-servidor-conf/) | Protegendo Seus Dados em Ambientes Serverless |
 
 
@@ -22,7 +23,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
-| 16 January '25 | [HashiTalks: América Latina](https://events.hashicorp.com/hashitalksamericalatina) | Asegurando y Escalando AWS con Terraform, Vault y Veeam: Una Guía Práctica |
+| 16 January '25 | [HashiTalks: América Latina](https://www.youtube.com/live/kliQaDm0fbA?si=qSf30RYNPeGJ5TK7) | Asegurando y Escalando AWS con Terraform, Vault y Veeam: Una Guía Práctica |
 | 8 January '25 | [CNCF WomanInTech Webinar](https://community.cncf.io/events/details/cncf-cloud-native-santiago-presents-womanintech-camino-hacia-el-mundo-tecnologico/) | Camino hacia el mundo Tecnológico|
 | 9 December '24 | [Women in Tech](https://women-in-tech.org/) | [Fireside Chat with Julia Furst Morgado and Karinne Bessette](https://www.linkedin.com/events/inspiringthenextgeneration-wome7269588592136503297/theater/) |
 | 5 December '24 | [AWS re:Invent](https://reinvent.awsevents.com/) | [Demystifying containers on AWS: What's right for you?](https://www.youtube.com/watch?v=CBfMUlswNjQ) |
