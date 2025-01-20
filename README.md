@@ -14,7 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 27 March '25 | [Veeam 100 Show](https://www.youtube.com/playlist?list=PL0afnnnx_OVCcbjmNM9gNAGmVMokbRZTu) | Veeam Migration 101 |
+| 6 February '25 | [Veeam 100 Show](https://www.youtube.com/playlist?list=PL0afnnnx_OVCcbjmNM9gNAGmVMokbRZTu) | Veeam Migration 101 |
 | 27 February '25 | [Veeam Techbites](https://www.youtube.com/playlist?list=PL0afnnnx_OVDG9TrYZeiabH4Vp9tFJvJo) | Optimizing Kubernetes Workloads: From VMs to Containers with Scalable Backup and Data Protection |
 | 6-7 March '25 | [Elevate Conference](https://girlgeek.io/conferences/elevate-2025-march-intl-womens-day/) | Turning Glue Work to Your Advantage |
 | 28 March '25 | [Sem Servidor Conf](https://semservidor.com.br/sem-servidor-conf/) | Protegendo Seus Dados em Ambientes Serverless |
