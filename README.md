@@ -102,6 +102,7 @@ Date|Conference/Meetup|Talk
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
+21 January '25 | Nerd Journey | [The Uniqueness of Tech - Julia Furst Morgado](https://nerd-journey.com/the-uniqueness-of-tech-100devs-coffee-chats-and-the-hallway-track-with-julia-furst-morgado-1-2/)
 13 November '24 | Interview by Bart Farrell | [Road to KubeCon NA 2024 - Julia Furst Morgado](https://podcasters.spotify.com/pod/show/the-landscape/episodes/Road-to-KubeCon-NA-2024---Julia-Furst-Morgado-e2queqa)
 8 January '24 | CanvasRebel Interview | [Meet Julia Furst Morgado](https://canvasrebel.com/meet-julia-furst-morgado/)
 25 September '23 | KodeKloud Live Interview | [Breaking Barriers: Navigating Tech Transitions and Flourishing in Tech Communities](https://www.youtube.com/watch?v=KVOw08KQvCM)
