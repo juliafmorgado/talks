@@ -105,7 +105,7 @@ Date|Conference/Meetup|Talk
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
-30 January '25 | Nerd Journey | [The Uniqueness of Tech - Julia Furst Morgado PT.2](https://nerd-journey.com/a-bridge-to-community-cncf-ambassador-and-technical-translator-with-julia-furst-morgado-2-2/)
+30 January '25 | Nerd Journey | [A Bridge to Community - Julia Furst Morgado PT.2](https://nerd-journey.com/a-bridge-to-community-cncf-ambassador-and-technical-translator-with-julia-furst-morgado-2-2/)
 21 January '25 | Nerd Journey | [The Uniqueness of Tech - Julia Furst Morgado PT.1](https://nerd-journey.com/the-uniqueness-of-tech-100devs-coffee-chats-and-the-hallway-track-with-julia-furst-morgado-1-2/)
 13 November '24 | Interview by Bart Farrell | [Road to KubeCon NA 2024 - Julia Furst Morgado](https://podcasters.spotify.com/pod/show/the-landscape/episodes/Road-to-KubeCon-NA-2024---Julia-Furst-Morgado-e2queqa)
 8 January '24 | CanvasRebel Interview | [Meet Julia Furst Morgado](https://canvasrebel.com/meet-julia-furst-morgado/)
