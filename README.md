@@ -17,6 +17,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 | 6 February '25 | [Veeam 100 Show](https://www.youtube.com/playlist?list=PL0afnnnx_OVCcbjmNM9gNAGmVMokbRZTu) | Veeam Migration 101 |
 | 27 February '25 | [Veeam Techbites](https://www.youtube.com/playlist?list=PL0afnnnx_OVDG9TrYZeiabH4Vp9tFJvJo) | Optimizing Kubernetes Workloads: From VMs to Containers with Scalable Backup and Data Protection |
 | 6-7 March '25 | [Elevate Conference](https://girlgeek.io/conferences/elevate-2025-march-intl-womens-day/) | Turning Glue Work to Your Advantage |
+| 6 March '25 | Veeam Megacast webinar |  Evolving Each Layer of Your Security Program |
 | 28 March '25 | [Sem Servidor Conf](https://semservidor.com.br/sem-servidor-conf/) | Protegendo Seus Dados em Ambientes Serverless |
 | 1 April '25 | [KubeCon EU 2025](https://colocatedeventseu2025.sched.com/event/1u5gL/streamline-your-app-development-with-the-power-of-cloud-native-tools-julia-furst-morgado-veeam-mauricio-salatino-diagrid?iframe=yes&w=100%&sidebar=yes&bg=no) | Streamline App Development with the Power of Cloud Native Tools |
 | 1 April '25 | [KubeCon EU 2025](https://colocatedeventseu2025.sched.com/event/1u5ir/chaos-to-control-kubernetes-resiliency-at-the-edge-julia-furst-morgado-veeam-candida-valois-scality?iframe=yes&w=100%&sidebar=yes&bg=no) | Chaos to Control: Kubernetes Resiliency at the Edge |
@@ -104,7 +105,8 @@ Date|Conference/Meetup|Talk
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
-21 January '25 | Nerd Journey | [The Uniqueness of Tech - Julia Furst Morgado](https://nerd-journey.com/the-uniqueness-of-tech-100devs-coffee-chats-and-the-hallway-track-with-julia-furst-morgado-1-2/)
+30 January '25 | Nerd Journey | [The Uniqueness of Tech - Julia Furst Morgado PT.2](https://nerd-journey.com/a-bridge-to-community-cncf-ambassador-and-technical-translator-with-julia-furst-morgado-2-2/)
+21 January '25 | Nerd Journey | [The Uniqueness of Tech - Julia Furst Morgado PT.1](https://nerd-journey.com/the-uniqueness-of-tech-100devs-coffee-chats-and-the-hallway-track-with-julia-furst-morgado-1-2/)
 13 November '24 | Interview by Bart Farrell | [Road to KubeCon NA 2024 - Julia Furst Morgado](https://podcasters.spotify.com/pod/show/the-landscape/episodes/Road-to-KubeCon-NA-2024---Julia-Furst-Morgado-e2queqa)
 8 January '24 | CanvasRebel Interview | [Meet Julia Furst Morgado](https://canvasrebel.com/meet-julia-furst-morgado/)
 25 September '23 | KodeKloud Live Interview | [Breaking Barriers: Navigating Tech Transitions and Flourishing in Tech Communities](https://www.youtube.com/watch?v=KVOw08KQvCM)
