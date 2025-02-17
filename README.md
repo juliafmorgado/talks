@@ -21,7 +21,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 | 28 March '25 | [Sem Servidor Conf](https://semservidor.com.br/sem-servidor-conf/) | Protegendo Seus Dados em Ambientes Serverless |
 | 1 April '25 | [KubeCon EU 2025](https://colocatedeventseu2025.sched.com/event/1u5gL/streamline-your-app-development-with-the-power-of-cloud-native-tools-julia-furst-morgado-veeam-mauricio-salatino-diagrid?iframe=yes&w=100%&sidebar=yes&bg=no) | Streamline App Development with the Power of Cloud Native Tools |
 | 1 April '25 | [KubeCon EU 2025](https://colocatedeventseu2025.sched.com/event/1u5ir/chaos-to-control-kubernetes-resiliency-at-the-edge-julia-furst-morgado-veeam-candida-valois-scality?iframe=yes&w=100%&sidebar=yes&bg=no) | Chaos to Control: Kubernetes Resiliency at the Edge |
-
+| 22 April '25 | [VeeamON 2025](https://www.veeam.com/veeamon) | Microsoft Entra ID backup any way you want it |
 
 
 ## Past Talks
