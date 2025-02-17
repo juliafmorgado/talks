@@ -14,7 +14,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 6 February '25 | [Veeam 100 Show](https://www.youtube.com/playlist?list=PL0afnnnx_OVCcbjmNM9gNAGmVMokbRZTu) | Veeam Migration 101 |
 | 27 February '25 | [Veeam Techbites](https://www.youtube.com/playlist?list=PL0afnnnx_OVDG9TrYZeiabH4Vp9tFJvJo) | Optimizing Kubernetes Workloads: From VMs to Containers with Scalable Backup and Data Protection |
 | 6-7 March '25 | [Elevate Conference](https://girlgeek.io/conferences/elevate-2025-march-intl-womens-day/) | Turning Glue Work to Your Advantage |
 | 6 March '25 | Veeam Megacast webinar |  Evolving Each Layer of Your Security Program |
@@ -28,6 +27,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 6 February '25 | [Veeam 100 Show](https://www.youtube.com/playlist?list=PL0afnnnx_OVCcbjmNM9gNAGmVMokbRZTu) | Veeam Migration 101 |
 | 16 January '25 | [HashiTalks: América Latina](https://www.youtube.com/live/kliQaDm0fbA?si=xBv-eyJT2keubI3E&t=12878) | Asegurando y Escalando AWS con Terraform, Vault y Veeam: Una Guía Práctica |
 | 8 January '25 | [CNCF WomanInTech Webinar](https://community.cncf.io/events/details/cncf-cloud-native-santiago-presents-womanintech-camino-hacia-el-mundo-tecnologico/) | Camino hacia el mundo Tecnológico|
 | 9 December '24 | [Women in Tech](https://women-in-tech.org/) | [Fireside Chat with Julia Furst Morgado and Karinne Bessette](https://www.linkedin.com/events/inspiringthenextgeneration-wome7269588592136503297/theater/) |
