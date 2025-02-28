@@ -14,10 +14,10 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 27 February '25 | [Veeam Techbites](https://www.youtube.com/playlist?list=PL0afnnnx_OVDG9TrYZeiabH4Vp9tFJvJo) | Optimizing Kubernetes Workloads: From VMs to Containers with Scalable Backup and Data Protection |
 | 6-7 March '25 | [Elevate Conference](https://girlgeek.io/conferences/elevate-2025-march-intl-womens-day/) | Turning Glue Work to Your Advantage |
 | 6 March '25 | Veeam Megacast webinar |  Evolving Each Layer of Your Security Program |
 | 26 March '25 | Veeam Webinar | What's New in 2025 with Veeam Data Platform and Hybrid Cloud |
+| 22 March '25 | [AWSome Women Community Summit Brasil](https://www.awswomencommunitybrasil.com/) | Bate Papo com Julia Furst Morgado |
 | 28 March '25 | [Sem Servidor Conf](https://semservidor.com.br/sem-servidor-conf/) | Protegendo Seus Dados em Ambientes Serverless |
 | 1 April '25 | [KubeCon EU 2025](https://colocatedeventseu2025.sched.com/event/1u5gL/streamline-your-app-development-with-the-power-of-cloud-native-tools-julia-furst-morgado-veeam-mauricio-salatino-diagrid?iframe=yes&w=100%&sidebar=yes&bg=no) | Streamline App Development with the Power of Cloud Native Tools |
 | 1 April '25 | [KubeCon EU 2025](https://colocatedeventseu2025.sched.com/event/1u5ir/chaos-to-control-kubernetes-resiliency-at-the-edge-julia-furst-morgado-veeam-candida-valois-scality?iframe=yes&w=100%&sidebar=yes&bg=no) | Chaos to Control: Kubernetes Resiliency at the Edge |
@@ -28,6 +28,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 27 February '25 | [Veeam Techbites](https://www.youtube.com/playlist?list=PL0afnnnx_OVDG9TrYZeiabH4Vp9tFJvJo) | Optimizing Kubernetes Workloads: From VMs to Containers with Scalable Backup and Data Protection |
 | 6 February '25 | [Veeam 100 Show](https://www.youtube.com/playlist?list=PL0afnnnx_OVCcbjmNM9gNAGmVMokbRZTu) | Veeam Migration 101 |
 | 16 January '25 | [HashiTalks: América Latina](https://www.youtube.com/live/kliQaDm0fbA?si=xBv-eyJT2keubI3E&t=12878) | Asegurando y Escalando AWS con Terraform, Vault y Veeam: Una Guía Práctica |
 | 8 January '25 | [CNCF WomanInTech Webinar](https://community.cncf.io/events/details/cncf-cloud-native-santiago-presents-womanintech-camino-hacia-el-mundo-tecnologico/) | Camino hacia el mundo Tecnológico|
@@ -106,6 +107,7 @@ Date|Conference/Meetup|Talk
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
+28 February '25 | Level Up with Ahmed | [Empowering Leadership in Cloud Native with Julia Furst Morgado](https://www.youtube.com/watch?v=RGERSdndJP4)
 30 January '25 | Nerd Journey | [A Bridge to Community - Julia Furst Morgado PT.2](https://nerd-journey.com/a-bridge-to-community-cncf-ambassador-and-technical-translator-with-julia-furst-morgado-2-2/)
 21 January '25 | Nerd Journey | [The Uniqueness of Tech - Julia Furst Morgado PT.1](https://nerd-journey.com/the-uniqueness-of-tech-100devs-coffee-chats-and-the-hallway-track-with-julia-furst-morgado-1-2/)
 13 November '24 | Interview by Bart Farrell | [Road to KubeCon NA 2024 - Julia Furst Morgado](https://podcasters.spotify.com/pod/show/the-landscape/episodes/Road-to-KubeCon-NA-2024---Julia-Furst-Morgado-e2queqa)
