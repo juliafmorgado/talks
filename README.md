@@ -16,7 +16,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
 | 20 March '25 | Veeam Event Toronto |  Digital Detectives - Protecting your environments |
 | 22 March '25 | [AWSome Women Community Summit Brasil](https://www.awswomencommunitybrasil.com/) | Bate Papo com Julia Furst Morgado |
-| 26 March '25 | Veeam Webinar | What's New in 2025 with Veeam Data Platform and Hybrid Cloud |
+| 26 March '25 | [Veeam Webinar](https://www.veeam.com/webinar/veeam-data-platform-hybrid-cloud-overview-2025) | What's New in 2025 with Veeam Data Platform and Hybrid Cloud |
 | 28 March '25 | [Sem Servidor Conf](https://semservidor.com.br/sem-servidor-conf/) | Protegendo Seus Dados em Ambientes Serverless |
 | 1 April '25 | [KubeCon EU 2025](https://colocatedeventseu2025.sched.com/event/1u5gL/streamline-your-app-development-with-the-power-of-cloud-native-tools-julia-furst-morgado-veeam-mauricio-salatino-diagrid?iframe=yes&w=100%&sidebar=yes&bg=no) | Streamline App Development with the Power of Cloud Native Tools |
 | 1 April '25 | [KubeCon EU 2025](https://colocatedeventseu2025.sched.com/event/1u5ir/chaos-to-control-kubernetes-resiliency-at-the-edge-julia-furst-morgado-veeam-candida-valois-scality?iframe=yes&w=100%&sidebar=yes&bg=no) | Chaos to Control: Kubernetes Resiliency at the Edge |
