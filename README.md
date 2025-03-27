@@ -14,14 +14,10 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 20 March '25 | Veeam Event Toronto |  Digital Detectives - Protecting your environments |
-| 22 March '25 | [AWSome Women Community Summit Brasil](https://www.awswomencommunitybrasil.com/) | Bate Papo com Julia Furst Morgado |
-| 26 March '25 | [Veeam Webinar](https://www.veeam.com/webinar/veeam-data-platform-hybrid-cloud-overview-2025) | What's New in 2025 with Veeam Data Platform and Hybrid Cloud |
-| 27 March '25 | [Veeam Techbites](https://www.youtube.com/playlist?list=PL0afnnnx_OVDG9TrYZeiabH4Vp9tFJvJo) | Compliance in the Cloud and What's new in VB AWS v9 and Azure v8 |
-| 28 March '25 | [Sem Servidor Conf](https://semservidor.com.br/sem-servidor-conf/) | Protegendo Seus Dados em Ambientes Serverless |
 | 1 April '25 | [KubeCon EU 2025](https://colocatedeventseu2025.sched.com/event/1u5gL/streamline-your-app-development-with-the-power-of-cloud-native-tools-julia-furst-morgado-veeam-mauricio-salatino-diagrid?iframe=yes&w=100%&sidebar=yes&bg=no) | Streamline App Development with the Power of Cloud Native Tools |
 | 1 April '25 | [KubeCon EU 2025](https://colocatedeventseu2025.sched.com/event/1u5ir/chaos-to-control-kubernetes-resiliency-at-the-edge-julia-furst-morgado-veeam-candida-valois-scality?iframe=yes&w=100%&sidebar=yes&bg=no) | Chaos to Control: Kubernetes Resiliency at the Edge |
 | 22 April '25 | [VeeamON 2025](https://www.veeam.com/veeamon) | Microsoft Entra ID backup any way you want it |
+| 15 May '25 | [KCD Austin](https://community.cncf.io/events/details/cncf-kcd-texas-presents-kcd-texas-austin-2025/) | The Data Oops: When Things Go Wrong with Your Kubernetes Workloads |
 | 12 June '25 | [Cloud Native Zurich](https://cloudnativezurich.ch/) | TBD |
 
 
@@ -29,6 +25,9 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 26 March '25 | [Veeam Webinar](https://www.veeam.com/webinar/veeam-data-platform-hybrid-cloud-overview-2025) | What's New in 2025 with Veeam Data Platform and Hybrid Cloud |
+| 22 March '25 | [AWSome Women Community Summit Brasil](https://www.awswomencommunitybrasil.com/) | Bate Papo com Julia Furst Morgado |
+| 20 March '25 | Veeam Event Toronto |  Digital Detectives - Protecting your environments |
 | 6 March '25 | Veeam Megacast webinar |  Evolving Each Layer of Your Security Program |
 | 6-7 March '25 | [Elevate Conference](https://girlgeek.io/conferences/elevate-2025-march-intl-womens-day/) | Turning Glue Work to Your Advantage |
 | 27 February '25 | [Veeam Techbites](https://www.youtube.com/playlist?list=PL0afnnnx_OVDG9TrYZeiabH4Vp9tFJvJo) | Optimizing Kubernetes Workloads: From VMs to Containers with Scalable Backup and Data Protection |
