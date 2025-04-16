@@ -24,7 +24,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
-| 14 April '25 | [CNCG Dehradun](https://community.cncf.io/events/details/cncf-cloud-native-dehradun-presents-cncf-beginnings-stories-amp-steps-into-the-cloud-native-future/) | From Non-Tech to CNCF Ambassador: You Can Do It Too! |
+| 14 April '25 | [CNCG Dehradun](https://community.cncf.io/events/details/cncf-cloud-native-dehradun-presents-cncf-beginnings-stories-amp-steps-into-the-cloud-native-future/) | [From Non-Tech to CNCF Ambassador: You Can Do It Too!](https://youtu.be/-YIxQAVxkds?si=8z4OdWnSbKPxZh4m) |
 | 1 April '25 | [KubeCon EU 2025](https://colocatedeventseu2025.sched.com/event/1u5gL/streamline-your-app-development-with-the-power-of-cloud-native-tools-julia-furst-morgado-veeam-mauricio-salatino-diagrid?iframe=yes&w=100%&sidebar=yes&bg=no) | Streamline App Development with the Power of Cloud Native Tools |
 | 1 April '25 | [KubeCon EU 2025](https://colocatedeventseu2025.sched.com/event/1u5ir/chaos-to-control-kubernetes-resiliency-at-the-edge-julia-furst-morgado-veeam-candida-valois-scality?iframe=yes&w=100%&sidebar=yes&bg=no) | Chaos to Control: Kubernetes Resiliency at the Edge |
 | 26 March '25 | [Veeam Webinar](https://www.veeam.com/webinar/veeam-data-platform-hybrid-cloud-overview-2025) | What's New in 2025 with Veeam Data Platform and Hybrid Cloud |
