@@ -14,7 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 22 April '25 | [VeeamON 2025](https://www.veeam.com/veeamon) | Microsoft Entra ID backup any way you want it |
+| 13 May '25 [Platform 2025](https://www.scalecomputing.com/landing-pages/platform-2025-agenda) | Virtualization, Migration, and What Comes Next|
 | 14 May '25 | [Platform 2025](https://www.scalecomputing.com/landing-pages/platform-2025-agenda) | Building Resilience in a Disruptive Market: Strategies for Ransomware Defense and Data Protection |
 | 15 May '25 | [KCD Austin](https://community.cncf.io/events/details/cncf-kcd-texas-presents-kcd-texas-austin-2025/) | The Data Oops: When Things Go Wrong with Your Kubernetes Workloads |
 | 12 June '25 | [Cloud Native Zurich](https://cloudnativezurich.ch/) | TBD |
@@ -24,6 +24,8 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 22 April '25 | [VeeamON 2025](https://www.veeam.com/veeamon) | Microsoft Entra ID backup any way you want it |
+| 21 April '25 | [VeeamON 2025](https://www.veeam.com/veeamon) | Veeam Vault Workshop |
 | 14 April '25 | [CNCG Dehradun](https://community.cncf.io/events/details/cncf-cloud-native-dehradun-presents-cncf-beginnings-stories-amp-steps-into-the-cloud-native-future/) | [From Non-Tech to CNCF Ambassador: You Can Do It Too!](https://youtu.be/-YIxQAVxkds?si=8z4OdWnSbKPxZh4m) |
 | 1 April '25 | [KubeCon EU 2025](https://colocatedeventseu2025.sched.com/event/1u5gL/streamline-your-app-development-with-the-power-of-cloud-native-tools-julia-furst-morgado-veeam-mauricio-salatino-diagrid?iframe=yes&w=100%&sidebar=yes&bg=no) | Streamline App Development with the Power of Cloud Native Tools |
 | 1 April '25 | [KubeCon EU 2025](https://colocatedeventseu2025.sched.com/event/1u5ir/chaos-to-control-kubernetes-resiliency-at-the-edge-julia-furst-morgado-veeam-candida-valois-scality?iframe=yes&w=100%&sidebar=yes&bg=no) | Chaos to Control: Kubernetes Resiliency at the Edge |
