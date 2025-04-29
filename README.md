@@ -14,7 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 13 May '25 [Platform 2025](https://www.scalecomputing.com/landing-pages/platform-2025-agenda) | Virtualization, Migration, and What Comes Next|
+| 13 May '25 | [Platform 2025](https://www.scalecomputing.com/landing-pages/platform-2025-agenda) | Virtualization, Migration, and What Comes Next |
 | 14 May '25 | [Platform 2025](https://www.scalecomputing.com/landing-pages/platform-2025-agenda) | Building Resilience in a Disruptive Market: Strategies for Ransomware Defense and Data Protection |
 | 15 May '25 | [KCD Austin](https://community.cncf.io/events/details/cncf-kcd-texas-presents-kcd-texas-austin-2025/) | The Data Oops: When Things Go Wrong with Your Kubernetes Workloads |
 | 12 June '25 | [Cloud Native Zurich](https://cloudnativezurich.ch/) | TBD |
