@@ -14,10 +14,12 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
+| 9 May '25 | [Dose de Telemetria](https://www.youtube.com/live/jyjSAG8Z9uI?si=O-aQg8C4KC0p1fDE) | O que rolou na KubeCon Londres |
 | 13 May '25 | [Platform 2025](https://www.scalecomputing.com/landing-pages/platform-2025-agenda) | Virtualization, Migration, and What Comes Next |
 | 14 May '25 | [Platform 2025](https://www.scalecomputing.com/landing-pages/platform-2025-agenda) | Building Resilience in a Disruptive Market: Strategies for Ransomware Defense and Data Protection |
 | 15 May '25 | [KCD Austin](https://community.cncf.io/events/details/cncf-kcd-texas-presents-kcd-texas-austin-2025/) | The Data Oops: When Things Go Wrong with Your Kubernetes Workloads |
-| 12 June '25 | [Cloud Native Zurich](https://cloudnativezurich.ch/) | TBD |
+| 5 June '25 | [AWS Community Day Midwest](https://www.midwestcommunityday.com/) | The Lazy Guide to Kubernetes with EKS Auto Mode + Karpenter |
+| 12 June '25 | [Cloud Native Zurich](https://cloudnativezurich.ch/) | Disaster-Proofing AI Workloads on Kubernetes |
 
 
 ## Past Talks
