@@ -14,10 +14,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 9 May '25 | [Dose de Telemetria](https://www.youtube.com/live/jyjSAG8Z9uI?si=O-aQg8C4KC0p1fDE) | O que rolou na KubeCon Londres |
-| 13 May '25 | [Platform 2025](https://www.scalecomputing.com/landing-pages/platform-2025-agenda) | Virtualization, Migration, and What Comes Next |
-| 14 May '25 | [Platform 2025](https://www.scalecomputing.com/landing-pages/platform-2025-agenda) | Building Resilience in a Disruptive Market: Strategies for Ransomware Defense and Data Protection |
-| 15 May '25 | [KCD Austin](https://community.cncf.io/events/details/cncf-kcd-texas-presents-kcd-texas-austin-2025/) | The Data Oops: When Things Go Wrong with Your Kubernetes Workloads |
 | 5 June '25 | [AWS Community Day Midwest](https://www.midwestcommunityday.com/) | The Lazy Guide to Kubernetes with EKS Auto Mode + Karpenter |
 | 12 June '25 | [Cloud Native Zurich](https://cloudnativezurich.ch/) | Disaster-Proofing AI Workloads on Kubernetes |
 
@@ -26,6 +22,10 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 15 May '25 | [KCD Austin](https://community.cncf.io/events/details/cncf-kcd-texas-presents-kcd-texas-austin-2025/) | The Data Oops: When Things Go Wrong with Your Kubernetes Workloads |
+| 14 May '25 | [Platform 2025](https://www.scalecomputing.com/landing-pages/platform-2025-agenda) | Building Resilience in a Disruptive Market: Strategies for Ransomware Defense and Data Protection |
+| 13 May '25 | [Platform 2025](https://www.scalecomputing.com/landing-pages/platform-2025-agenda) | Virtualization, Migration, and What Comes Next |
+| 9 May '25 | [Dose de Telemetria](https://www.youtube.com/live/jyjSAG8Z9uI?si=O-aQg8C4KC0p1fDE) | O que rolou na KubeCon Londres |
 | 22 April '25 | [VeeamON 2025](https://www.veeam.com/veeamon) | Microsoft Entra ID backup any way you want it |
 | 21 April '25 | [VeeamON 2025](https://www.veeam.com/veeamon) | Veeam Vault Workshop |
 | 14 April '25 | [CNCG Dehradun](https://community.cncf.io/events/details/cncf-cloud-native-dehradun-presents-cncf-beginnings-stories-amp-steps-into-the-cloud-native-future/) | [From Non-Tech to CNCF Ambassador: You Can Do It Too!](https://youtu.be/-YIxQAVxkds?si=8z4OdWnSbKPxZh4m) |
@@ -115,6 +115,7 @@ Date|Conference/Meetup|Talk
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
+26 May '25 | InfoQ Podcast | [Kubernetes Edge Resiliency: Recovering from Ransomware Attacks in Minutes](https://www.infoq.com/podcasts/kubernetes-resiliency-recovering-ransomware-attacks/)
 28 February '25 | Level Up with Ahmed | [Empowering Leadership in Cloud Native with Julia Furst Morgado](https://www.youtube.com/watch?v=RGERSdndJP4)
 30 January '25 | Nerd Journey | [A Bridge to Community - Julia Furst Morgado PT.2](https://nerd-journey.com/a-bridge-to-community-cncf-ambassador-and-technical-translator-with-julia-furst-morgado-2-2/)
 21 January '25 | Nerd Journey | [The Uniqueness of Tech - Julia Furst Morgado PT.1](https://nerd-journey.com/the-uniqueness-of-tech-100devs-coffee-chats-and-the-hallway-track-with-julia-furst-morgado-1-2/)
