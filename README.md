@@ -14,8 +14,10 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
+| 28 May '25 | [SiberX Toronto](https://siberx.org/event/cybersecurity-think-tank-genai-security/) | Cybersecurity Think Tank: GenAI Security |
 | 5 June '25 | [AWS Community Day Midwest](https://www.midwestcommunityday.com/) | The Lazy Guide to Kubernetes with EKS Auto Mode + Karpenter |
 | 12 June '25 | [Cloud Native Zurich](https://cloudnativezurich.ch/) | Disaster-Proofing AI Workloads on Kubernetes |
+| 17-18 July '25 | [DevRelCon](https://nyc.devrelcon.dev/) | So You Built It… But Why Aren’t Developers Coming? |
 
 
 ## Past Talks
