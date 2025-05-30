@@ -14,7 +14,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 28 May '25 | [SiberX Toronto](https://siberx.org/event/cybersecurity-think-tank-genai-security/) | Cybersecurity Think Tank: GenAI Security |
 | 5 June '25 | [AWS Community Day Midwest](https://www.midwestcommunityday.com/) | The Lazy Guide to Kubernetes with EKS Auto Mode + Karpenter |
 | 12 June '25 | [Cloud Native Zurich](https://cloudnativezurich.ch/) | Disaster-Proofing AI Workloads on Kubernetes |
 | 18 June '25 | [Japan AWS Meetup Tokyo](https://jawsugdei.connpass.com/event/356739/) | Amazon EKS Auto Mode |
@@ -25,6 +24,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 28 May '25 | [SiberX Toronto](https://siberx.org/event/cybersecurity-think-tank-genai-security/) | Cybersecurity Think Tank: GenAI Security |
 | 15 May '25 | [KCD Austin](https://community.cncf.io/events/details/cncf-kcd-texas-presents-kcd-texas-austin-2025/) | The Data Oops: When Things Go Wrong with Your Kubernetes Workloads |
 | 14 May '25 | [Platform 2025](https://www.scalecomputing.com/landing-pages/platform-2025-agenda) | Building Resilience in a Disruptive Market: Strategies for Ransomware Defense and Data Protection |
 | 13 May '25 | [Platform 2025](https://www.scalecomputing.com/landing-pages/platform-2025-agenda) | Virtualization, Migration, and What Comes Next |
