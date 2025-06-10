@@ -14,16 +14,16 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 8 June '25 | [Cloud Native Nashik](https://community.cncf.io/events/details/cncf-cloud-native-nashik-presents-the-future-is-cloud-native-stories-of-transformation/) | From Non-Tech to CNCF Ambassador-You Can Do It Too |
 | 12 June '25 | [Cloud Native Zurich](https://cloudnativezurich.ch/) | Disaster-Proofing AI Workloads on Kubernetes |
 | 18 June '25 | [Japan AWS Meetup Tokyo](https://jawsugdei.connpass.com/event/356739/) | Amazon EKS Auto Mode |
 | 17-18 July '25 | [DevRelCon](https://nyc.devrelcon.dev/) | So You Built It… But Why Aren’t Developers Coming? |
-
+| 19 July '25 | [KCD Lima](https://community.cncf.io/events/details/cncf-kcd-lima-peru-presents-kcd-lima-peru-2025/) | ¡De No-Tecnológica a Embajadora de la CNCF: Tú También Puedes Lograrlo!  |
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 8 June '25 | [Cloud Native Nashik](https://community.cncf.io/events/details/cncf-cloud-native-nashik-presents-the-future-is-cloud-native-stories-of-transformation/) | From Non-Tech to CNCF Ambassador-You Can Do It Too |
 | 5 June '25 | [AWS Community Day Midwest](https://www.midwestcommunityday.com/) | The Lazy Guide to Kubernetes with EKS Auto Mode + Karpenter |
 | 4 June '25 | [KCD New York](https://community.cncf.io/events/details/cncf-kcd-new-york-presents-kcd-new-york-2025/) | Closing Remarks |
 | 28 May '25 | [SiberX Toronto](https://siberx.org/event/cybersecurity-think-tank-genai-security/) | Cybersecurity Think Tank: GenAI Security |
