@@ -14,8 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 17-18 July '25 | [DevRelCon](https://nyc.devrelcon.dev/) | So You Built It… But Why Aren’t Developers Coming? |
-| 19 July '25 | [KCD Lima](https://community.cncf.io/events/details/cncf-kcd-lima-peru-presents-kcd-lima-peru-2025/) | ¡De No-Tecnológica a Embajadora de la CNCF: Tú También Puedes Lograrlo!  |
+
 
 ## Past Talks
 
