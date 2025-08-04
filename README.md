@@ -15,7 +15,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
 | 19 August '25 | Veeam and AWS Fireside Chat | Trust NO ONE: Ensuring Data & Cyber Resiliency with AWS and Veeam  |
-| 30 August '25 | [Cloud Native São Paulo City](https://community.cncf.io/events/details/cncf-cloud-native-sao-paulo-city-presents-ctencf-birthday-bash-sao-paulo/) | Protecting Your AI Models  |
+| 30 August '25 | [Cloud Native São Paulo City](https://community.cncf.io/events/details/cncf-cloud-native-sao-paulo-city-presents-ctencf-birthday-bash-sao-paulo/) | Proteção e Resiliência para Bancos de Dados Vetoriais de IA |
 | 2 September '25 | Veeam Webinar | Scale Your Hybrid Cloud—Optimize Costs, Security & Management |
 | 3 September '25 | Veeam and AWS Panel | Resilience in Healthcare CXO  |
 | 23 September '25 | [KubeCrash](https://www.kubecrash.io/) | Platform Security panel |
