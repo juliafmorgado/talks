@@ -20,6 +20,8 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 | 2 September '25 | Veeam Webinar | Scale Your Hybrid Cloud—Optimize Costs, Security & Management |
 | 3 September '25 | Veeam and AWS Panel | Resilience in Healthcare CXO  |
 | 23 September '25 | [KubeCrash](https://www.kubecrash.io/) | Platform Security panel |
+| 10 November '25 | [KubeCon NA Co-located](https://colocatedeventsna2025.sched.com/event/28D2H/stitching-the-cncf-stack-for-platform-engineers-julia-furst-morgado-veeam-mauricio-salatino-diagrid) | Stitching the CNCF Stack for Platform Engineers |
+| 10 November '25 | [KubeCon NA Co-located](https://colocatedeventsna2025.sched.com/event/28D5l/why-data-stored-in-kubernetes-is-at-risk-and-what-you-can-do-about-it-julia-furst-morgado-veeam-carolina-valencia-elastic) | Why Data Stored in Kubernetes Is at Risk and What You Can Do About It |
 | 11 November '25 | [KubeCon NA](https://kccncna2025.sched.com/event/27FXU/integrating-data-center-observability-into-cloud-native-environment-pedro-celestin-cldf-julia-furst-morgado-veeam) | Integrating Data Center Observability into Cloud Native Environments |
 | 12 November '25 | [KubeCon NA](https://kccncna2025.sched.com/event/27FYw) | Making Platform Engineering Accessible |
 
