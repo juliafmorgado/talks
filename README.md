@@ -14,7 +14,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 19 August '25 | Veeam and AWS Fireside Chat | Trust NO ONE: Ensuring Data & Cyber Resiliency with AWS and Veeam  |
 | 28 August '25 | [Veeam On Tour Brasil](https://www.veeam.com/resources/events.html?region=LA) | Governança, Segurança e Restauração Ágil: Backup Moderno para Microsoft 365 e Entra ID  |
 | 30 August '25 | [Cloud Native São Paulo City](https://community.cncf.io/events/details/cncf-cloud-native-sao-paulo-city-presents-ctencf-birthday-bash-sao-paulo/) | Proteção e Resiliência para Bancos de Dados Vetoriais de IA |
 | 2 September '25 | Veeam Webinar | Scale Your Hybrid Cloud—Optimize Costs, Security & Management |
@@ -30,6 +29,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 19 August '25 | Veeam and AWS Fireside Chat | Trust NO ONE: Ensuring Data & Cyber Resiliency with AWS and Veeam  |
 | 18 June '25 | [Japan AWS Meetup Tokyo](https://jawsugdei.connpass.com/event/356739/) | Amazon EKS Auto Mode |
 | 12 June '25 | [Cloud Native Zurich](https://cloudnativezurich.ch/) | Disaster-Proofing AI Workloads on Kubernetes |
 | 8 June '25 | [Cloud Native Nashik](https://community.cncf.io/events/details/cncf-cloud-native-nashik-presents-the-future-is-cloud-native-stories-of-transformation/) | From Non-Tech to CNCF Ambassador-You Can Do It Too |
