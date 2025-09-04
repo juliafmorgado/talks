@@ -16,6 +16,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
 | 17 September '25 | Veeam Event | be:Connected Nashville |
 | 23 September '25 | [KubeCrash](https://www.kubecrash.io/) | Platform Security panel |
+| 3 October '25 | [AWS DMV Community Day](https://www.dmvcommunityday.com/) | The Lazy Guide to Kubernetes with EKS Auto Mode + Karpenter |
 | 7 October '25 | Veeam Event | Kickoff to Recovery-Part 2 - Veeam Kasten |
 | 22 October '25 | Veeam Event | be:Connected Burlington |
 | 10 November '25 | [KubeCon NA Co-located](https://colocatedeventsna2025.sched.com/event/28D2H/stitching-the-cncf-stack-for-platform-engineers-julia-furst-morgado-veeam-mauricio-salatino-diagrid) | Stitching the CNCF Stack for Platform Engineers |
