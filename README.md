@@ -14,11 +14,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 17 September '25 | Veeam Event | be:Connected Nashville |
-| 23 September '25 | [KubeCrash](https://www.kubecrash.io/) | Platform Security panel |
-| 3 October '25 | [AWS DMV Community Day](https://www.dmvcommunityday.com/) | The Lazy Guide to Kubernetes with EKS Auto Mode + Karpenter |
-| 7 October '25 | Veeam Event | Kickoff to Recovery-Part 2 - Veeam Kasten |
-| 22 October '25 | Veeam Event | be:Connected Burlington |
 | 4 November '25 | Veeam 100 | Kubernetes and Virtualization |
 | 10 November '25 | [KubeCon NA Co-located](https://colocatedeventsna2025.sched.com/event/28D2H/stitching-the-cncf-stack-for-platform-engineers-julia-furst-morgado-veeam-mauricio-salatino-diagrid) | Stitching the CNCF Stack for Platform Engineers |
 | 10 November '25 | [KubeCon NA Co-located](https://colocatedeventsna2025.sched.com/event/28D5l/why-data-stored-in-kubernetes-is-at-risk-and-what-you-can-do-about-it-julia-furst-morgado-veeam-carolina-valencia-elastic) | Why Data Stored in Kubernetes Is at Risk and What You Can Do About It |
@@ -30,6 +25,10 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 7 October '25 | Veeam Event | Kickoff to Recovery-Part 2 - Veeam Kasten |
+| 3 October '25 | [AWS DMV Community Day](https://www.dmvcommunityday.com/) | The Lazy Guide to Kubernetes with EKS Auto Mode + Karpenter |
+| 23 September '25 | [KubeCrash](https://www.kubecrash.io/) | Platform Security panel |
+| 17 September '25 | Veeam Event | be:Connected Nashville |
 | 3 September '25 | [Veeam and AWS Panel](https://go.beckershospitalreview.com/hit/shared-responsibility-stronger-defense-healthcare-data-compliance-in-the-cloud-era?source=veeam-software-corp) | Resilience in Healthcare CXO  |
 | 2 September '25 | Veeam Webinar | Scale Your Hybrid Cloud—Optimize Costs, Security & Management |
 | 30 August '25 | [Cloud Native São Paulo City](https://community.cncf.io/events/details/cncf-cloud-native-sao-paulo-city-presents-ctencf-birthday-bash-sao-paulo/) | Proteção e Resiliência para Bancos de Dados Vetoriais de IA |
