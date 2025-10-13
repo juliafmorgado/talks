@@ -133,6 +133,7 @@ Date|Conference/Meetup|Talk
 
 Date|Medium|Title
 :-----:|:-----:|:-------:
+26 May '25 | Kubernetes for Humans | [Chat with Julia Furst Morgado and Michael Cade](https://lnkd.in/dgHK3sfv)
 26 May '25 | InfoQ Podcast | [Kubernetes Edge Resiliency: Recovering from Ransomware Attacks in Minutes](https://www.infoq.com/podcasts/kubernetes-resiliency-recovering-ransomware-attacks/)
 28 February '25 | Level Up with Ahmed | [Empowering Leadership in Cloud Native with Julia Furst Morgado](https://www.youtube.com/watch?v=RGERSdndJP4)
 30 January '25 | Nerd Journey | [A Bridge to Community - Julia Furst Morgado PT.2](https://nerd-journey.com/a-bridge-to-community-cncf-ambassador-and-technical-translator-with-julia-furst-morgado-2-2/)
