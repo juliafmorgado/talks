@@ -14,16 +14,18 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 10 November '25 | [KubeCon NA Co-located](https://colocatedeventsna2025.sched.com/event/28D2H/stitching-the-cncf-stack-for-platform-engineers-julia-furst-morgado-veeam-mauricio-salatino-diagrid) | Stitching the CNCF Stack for Platform Engineers |
-| 10 November '25 | [KubeCon NA Co-located](https://colocatedeventsna2025.sched.com/event/28D5l/why-data-stored-in-kubernetes-is-at-risk-and-what-you-can-do-about-it-julia-furst-morgado-veeam-carolina-valencia-elastic) | Why Data Stored in Kubernetes Is at Risk and What You Can Do About It |
-| 11 November '25 | [KubeCon NA](https://kccncna2025.sched.com/event/27FXU/integrating-data-center-observability-into-cloud-native-environment-pedro-celestin-cldf-julia-furst-morgado-veeam) | Integrating Data Center Observability into Cloud Native Environments |
-| 12 November '25 | [KubeCon NA](https://kccncna2025.sched.com/event/27FYw) | Making Platform Engineering Accessible |
+| 20 November '25 | [KubeCon Unpacked](https://cast.ai/webinars/kubecon-unpacked/) | KubeCon Unpacked: What Really Stood Out |
+| 21 November '25 | [Live - Dose the Telemetria](https://www.youtube.com/@DoseDeTelemetria) | Recap KubeCon |
 
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 12 November '25 | [KubeCon NA](https://kccncna2025.sched.com/event/27FYw) | Making Platform Engineering Accessible |
+| 11 November '25 | [KubeCon NA](https://kccncna2025.sched.com/event/27FXU/integrating-data-center-observability-into-cloud-native-environment-pedro-celestin-cldf-julia-furst-morgado-veeam) | Integrating Data Center Observability into Cloud Native Environments |
+| 10 November '25 | [KubeCon NA Co-located](https://colocatedeventsna2025.sched.com/event/28D5l/why-data-stored-in-kubernetes-is-at-risk-and-what-you-can-do-about-it-julia-furst-morgado-veeam-carolina-valencia-elastic) | Why Data Stored in Kubernetes Is at Risk and What You Can Do About It |
+| 10 November '25 | [KubeCon NA Co-located](https://colocatedeventsna2025.sched.com/event/28D2H/stitching-the-cncf-stack-for-platform-engineers-julia-furst-morgado-veeam-mauricio-salatino-diagrid) | Stitching the CNCF Stack for Platform Engineers |
 | 7 October '25 | Veeam Event | Kickoff to Recovery-Part 2 - Veeam Kasten |
 | 3 October '25 | [AWS DMV Community Day](https://www.dmvcommunityday.com/) | The Lazy Guide to Kubernetes with EKS Auto Mode + Karpenter |
 | 23 September '25 | [KubeCrash](https://www.kubecrash.io/) | Platform Security panel |
