@@ -22,12 +22,12 @@ REST FOR NOW
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
-| 21 November '25 | [Live - Dose the Telemetria](https://www.youtube.com/@DoseDeTelemetria) | Recap KubeCon |
+| 21 November '25 | Live - Dose the Telemetria| [Recap KubeCon](https://www.youtube.com/@DoseDeTelemetria)  |
 | 20 November '25 | [KubeCon Unpacked](https://cast.ai/webinars/kubecon-unpacked/) | KubeCon Unpacked: What Really Stood Out |
-| 12 November '25 | [KubeCon NA](https://www.youtube.com/watch?v=1GdXF5fFjpY) | Making Platform Engineering Accessible |
-| 11 November '25 | [KubeCon NA](https://www.youtube.com/watch?v=TsNfSKppiPU) | Integrating Data Center Observability into Cloud Native Environments |
-| 10 November '25 | [KubeCon NA Co-located](https://www.youtube.com/watch?v=c-_5jc2yMJE) | Why Data Stored in Kubernetes Is at Risk and What You Can Do About It |
-| 10 November '25 | [KubeCon NA Co-located](https://www.youtube.com/watch?v=eO2PoIbjHVo) | Stitching the CNCF Stack for Platform Engineers |
+| 12 November '25 | KubeCon NA | [Making Platform Engineering Accessible](https://www.youtube.com/watch?v=1GdXF5fFjpY) |
+| 11 November '25 | KubeCon NA | [Integrating Data Center Observability into Cloud Native Environments](https://www.youtube.com/watch?v=TsNfSKppiPU) |
+| 10 November '25 | KubeCon NA Co-located | [Why Data Stored in Kubernetes Is at Risk and What You Can Do About It](https://www.youtube.com/watch?v=c-_5jc2yMJE) |
+| 10 November '25 | KubeCon NA Co-located | [Stitching the CNCF Stack for Platform Engineers](https://www.youtube.com/watch?v=eO2PoIbjHVo) |
 | 7 October '25 | Veeam Event | Kickoff to Recovery-Part 2 - Veeam Kasten |
 | 3 October '25 | [AWS DMV Community Day](https://www.dmvcommunityday.com/) | The Lazy Guide to Kubernetes with EKS Auto Mode + Karpenter |
 | 23 September '25 | [KubeCrash](https://www.kubecrash.io/) | Platform Security panel |
