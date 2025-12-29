@@ -14,7 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-REST FOR NOW
+| 21 January '26 | [RancherLive](https://www.linkedin.com/events/rancherlive-otelmeaboutobservab7411434280666484736/theater/) | OTel me about Observability |
 
 
 
