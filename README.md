@@ -16,7 +16,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
 | 21 January '26 | [RancherLive](https://www.linkedin.com/events/rancherlive-otelmeaboutobservab7411434280666484736/theater/) | OTel me about Observability |
 | 11 February '26 | [Brooklyn Tech Expo](https://pulse.nyc/brooklyn-tech-expo/) | The More AI We Add, the More Observability We Need | 
-| 27 February '26 | [DevOps Not Dead](https://devopsnotdead.com/2026-nyc-q1/) | TBD | 
+| 27 February '26 | [DevOps Not Dead](https://devopsnotdead.com/2026-nyc-q1/) | I Turned On Observability and Nothing Happened | 
 
 
 ## Past Talks
