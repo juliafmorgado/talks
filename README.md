@@ -14,16 +14,17 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 21 January '26 | [RancherLive](https://www.linkedin.com/events/rancherlive-otelmeaboutobservab7411434280666484736/theater/) | OTel me about Observability |
-| 11 February '26 | [Brooklyn Tech Expo](https://pulse.nyc/brooklyn-tech-expo/) | The More AI We Add, the More Observability We Need |
 | 20 February '26 | [DeveloperWeek](https://www.developerweek.com/) | Observability Workshop |
-| 23 March '26 | [KubeCon EU](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cncf-hosted-co-located-schedule/) | Making Observability Work at the Edge | 
+| 23 March '26 | [KubeCon EU](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cncf-hosted-co-located-schedule/) | Making Observability Work at the Edge |
+| 23 June '26 | [Boston Kubernetes Meetup](https://www.meetup.com/boston-kubernetes-meetup/) | What 30 Days of OpenTelemetry Taught Me | 
 
 
 ## Past Talks
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 11 February '26 | [Brooklyn Tech Expo](https://pulse.nyc/brooklyn-tech-expo/) | The More AI We Add, the More Observability We Need |
+| 21 January '26 | [RancherLive](https://www.linkedin.com/events/rancherlive-otelmeaboutobservab7411434280666484736/theater/) | OTel me about Observability |
 | 21 November '25 | Live - Dose the Telemetria| [Recap KubeCon](https://www.youtube.com/@DoseDeTelemetria)  |
 | 20 November '25 | [KubeCon Unpacked](https://cast.ai/webinars/kubecon-unpacked/) | KubeCon Unpacked: What Really Stood Out |
 | 12 November '25 | KubeCon NA | [Making Platform Engineering Accessible](https://www.youtube.com/watch?v=1GdXF5fFjpY) |
