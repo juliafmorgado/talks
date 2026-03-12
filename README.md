@@ -14,7 +14,8 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 23 March '26 | [KubeCon EU](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cncf-hosted-co-located-schedule/) | Making Observability Work at the Edge |
+| 23 March '26 | [KubeCon EU](https://colocatedeventseu2026.sched.com/event/2DY1Y/making-observability-work-at-the-edge-julia-furst-morgado-dash0-graziano-casto-akamas?iframe=yes&w=100%&sidebar=yes&bg=no) | Making Observability Work at the Edge |
+| 23 March '26 | [KubeCon EU](https://colocatedeventseu2026.sched.com/event/2DY4D/panel-from-signals-to-safety-nets-self-healing-progressive-delivery-with-argo-rollouts-anastasiia-gubska-chase-uk-sandeep-kanabar-gen-formerly-nortonlifelock-joe-fuller-buoyant) | Panel: From Signals to Safety Nets |
 | 23 June '26 | [Boston Kubernetes Meetup](https://www.meetup.com/boston-kubernetes-meetup/) | What 30 Days of OpenTelemetry Taught Me | 
 
 
