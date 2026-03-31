@@ -14,8 +14,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 23 March '26 | [KubeCon EU](https://colocatedeventseu2026.sched.com/event/2DY1Y/making-observability-work-at-the-edge-julia-furst-morgado-dash0-graziano-casto-akamas?iframe=yes&w=100%&sidebar=yes&bg=no) | Making Observability Work at the Edge |
-| 23 March '26 | [KubeCon EU](https://colocatedeventseu2026.sched.com/event/2DY4D/panel-from-signals-to-safety-nets-self-healing-progressive-delivery-with-argo-rollouts-anastasiia-gubska-chase-uk-sandeep-kanabar-gen-formerly-nortonlifelock-joe-fuller-buoyant) | Panel: From Signals to Safety Nets |
 | 23 June '26 | [Boston Kubernetes Meetup](https://www.meetup.com/boston-kubernetes-meetup/) | What 30 Days of OpenTelemetry Taught Me | 
 
 
@@ -23,6 +21,8 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 23 March '26 | [KubeCon EU](https://colocatedeventseu2026.sched.com/event/2DY1Y/making-observability-work-at-the-edge-julia-furst-morgado-dash0-graziano-casto-akamas?iframe=yes&w=100%&sidebar=yes&bg=no) | Making Observability Work at the Edge |
+| 23 March '26 | [KubeCon EU](https://colocatedeventseu2026.sched.com/event/2DY4D/panel-from-signals-to-safety-nets-self-healing-progressive-delivery-with-argo-rollouts-anastasiia-gubska-chase-uk-sandeep-kanabar-gen-formerly-nortonlifelock-joe-fuller-buoyant) | Panel: From Signals to Safety Nets |
 | 20 February '26 | [DeveloperWeek](https://www.developerweek.com/) | Observability Workshop |
 | 11 February '26 | [Brooklyn Tech Expo](https://pulse.nyc/brooklyn-tech-expo/) | The More AI We Add, the More Observability We Need |
 | 21 January '26 | [RancherLive](https://www.linkedin.com/events/rancherlive-otelmeaboutobservab7411434280666484736/theater/) | OTel me about Observability |
