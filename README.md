@@ -24,8 +24,8 @@ Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
 | 17 April '26 | [Cloud Native Los Angeles](https://community.cncf.io/events/details/cncf-cloud-native-los-angeles-presents-what-30-days-of-opentelemetry-taught-me/) | What 30 Days of OpenTelemetry Taught Me | 
 | 31 March '26 | [DOUGirl - DevOps User Group Brazil](https://www.youtube.com/watch?v=E37z9XNSdOM) |Kubernetes resolveu o deploy. Quem resolve o debugging? | 
-| 23 March '26 | [KubeCon EU](https://colocatedeventseu2026.sched.com/event/2DY1Y/making-observability-work-at-the-edge-julia-furst-morgado-dash0-graziano-casto-akamas?iframe=yes&w=100%&sidebar=yes&bg=no) | Making Observability Work at the Edge |
-| 23 March '26 | [KubeCon EU](https://colocatedeventseu2026.sched.com/event/2DY4D/panel-from-signals-to-safety-nets-self-healing-progressive-delivery-with-argo-rollouts-anastasiia-gubska-chase-uk-sandeep-kanabar-gen-formerly-nortonlifelock-joe-fuller-buoyant) | Panel: From Signals to Safety Nets |
+| 23 March '26 | [KubeCon EU](https://colocatedeventseu2026.sched.com/event/2DY1Y/making-observability-work-at-the-edge-julia-furst-morgado-dash0-graziano-casto-akamas?iframe=yes&w=100%&sidebar=yes&bg=no) | [Making Observability Work at the Edge](https://www.youtube.com/watch?v=8E-504ewVkA) |
+| 23 March '26 | [KubeCon EU](https://colocatedeventseu2026.sched.com/event/2DY4D/panel-from-signals-to-safety-nets-self-healing-progressive-delivery-with-argo-rollouts-anastasiia-gubska-chase-uk-sandeep-kanabar-gen-formerly-nortonlifelock-joe-fuller-buoyant) | [Panel: From Signals to Safety Nets](https://www.youtube.com/watch?v=VXYU0olNwN8) |
 | 20 February '26 | [DeveloperWeek](https://www.developerweek.com/) | Observability Workshop |
 | 11 February '26 | [Brooklyn Tech Expo](https://pulse.nyc/brooklyn-tech-expo/) | The More AI We Add, the More Observability We Need |
 | 21 January '26 | [RancherLive](https://www.linkedin.com/events/rancherlive-otelmeaboutobservab7411434280666484736/theater/) | OTel me about Observability |
