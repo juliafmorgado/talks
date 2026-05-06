@@ -14,6 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
+| 15 May '26 | [KCD Texas](https://community2.cncf.io/events/details/cncf-kcd-texas-presents-kcd-texas-2026/) | Mastering the Dark Arts of OTel Debugging | 
 | 3 June '26 | [Cloud Native Ecuador](https://www.linkedin.com/company/cloudnativeecuador) | Lo Que Nadie Te Dice al Empezar con OpenTelemetry | 
 | 23 June '26 | [Boston Kubernetes Meetup](https://www.meetup.com/boston-kubernetes-meetup/) | What 30 Days of OpenTelemetry Taught Me | 
 | 25 June '26 | [PlatformCon NYC](https://platformcon.com/live-day-nyc) | Making Observability a First-Class Platform Concern | 
