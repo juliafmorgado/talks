@@ -14,7 +14,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 15 May '26 | [KCD Texas](https://community2.cncf.io/events/details/cncf-kcd-texas-presents-kcd-texas-2026/) | Mastering the Dark Arts of OTel Debugging | 
 | 3 June '26 | [Cloud Native Ecuador](https://www.linkedin.com/company/cloudnativeecuador) | Lo Que Nadie Te Dice al Empezar con OpenTelemetry | 
 | 23 June '26 | [Boston Kubernetes Meetup](https://www.meetup.com/boston-kubernetes-meetup/) | What 30 Days of OpenTelemetry Taught Me | 
 | 25 June '26 | [PlatformCon NYC](https://platformcon.com/live-day-nyc) | Making Observability a First-Class Platform Concern | 
@@ -24,6 +23,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 15 May '26 | [KCD Texas](https://community2.cncf.io/events/details/cncf-kcd-texas-presents-kcd-texas-2026/) | Mastering the Dark Arts of OTel Debugging | 
 | 17 April '26 | [Cloud Native Los Angeles](https://community.cncf.io/events/details/cncf-cloud-native-los-angeles-presents-what-30-days-of-opentelemetry-taught-me/) | What 30 Days of OpenTelemetry Taught Me | 
 | 31 March '26 | [DOUGirl - DevOps User Group Brazil](https://www.youtube.com/watch?v=E37z9XNSdOM) |Kubernetes resolveu o deploy. Quem resolve o debugging? | 
 | 23 March '26 | [KubeCon EU](https://colocatedeventseu2026.sched.com/event/2DY1Y/making-observability-work-at-the-edge-julia-furst-morgado-dash0-graziano-casto-akamas?iframe=yes&w=100%&sidebar=yes&bg=no) | [Making Observability Work at the Edge](https://www.youtube.com/watch?v=8E-504ewVkA) |
