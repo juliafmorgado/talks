@@ -14,8 +14,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 10 June '26 | [KCD New York](https://kcdnewyork.com/) | Opening and OpenTelemetry Roundtable |
-| 11 June '26 | [LowOps Channel](https://www.youtube.com/watch?v=mnViGE6lqPM) | Da advocacia ao Cloud Native global: carreira internacional com Julia Furst Morgado |
 | 17 June '26 | [Cloud Native Costa Rica](https://ocgroups.dev/cncf/group/zwnkn4q/event/9bwf3cz) | La Guía de OpenTelemetry y Carrera que Me Hubiera Gustado Tener |
 | 23 June '26 | [Boston Kubernetes Meetup](https://www.meetup.com/boston-kubernetes-meetup/events/314965246/) | What 30 Days of OpenTelemetry Taught Me | 
 | 25 June '26 | [PlatformCon NYC](https://platformcon.com/live-day-nyc) | Making Observability a First-Class Platform Concern |
@@ -28,6 +26,8 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 11 June '26 | [LowOps Channel](https://www.youtube.com/watch?v=mnViGE6lqPM) | Da advocacia ao Cloud Native global: carreira internacional com Julia Furst Morgado |
+| 10 June '26 | [KCD New York](https://kcdnewyork.com/) | Opening and OpenTelemetry Roundtable |
 | 8 June '26 | [Cloud Native Ayacucho](https://ocgroups.dev/cncf/group/ncz2zfb) | Hoy Es el Día en que Entiendes OpenTelemetry |
 | 3 June '26 | [Cloud Native Ecuador](https://ocgroups.dev/cncf/group/hzgm925/event/rpd8waw) | Lo Que Nadie Te Dice al Empezar con OpenTelemetry |
 | 15 May '26 | [KCD Texas](https://community2.cncf.io/events/details/cncf-kcd-texas-presents-kcd-texas-2026/) | Mastering the Dark Arts of OTel Debugging | 
