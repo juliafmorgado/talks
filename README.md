@@ -14,7 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 23 June '26 | [Boston Kubernetes Meetup](https://www.meetup.com/boston-kubernetes-meetup/events/314965246/) | What 30 Days of OpenTelemetry Taught Me | 
+| 23 June '26 | [Boston Kubernetes Meetup](https://www.meetup.com/boston-kubernetes-meetup/events/314965246/) | What Nobody Tells You When You Start With OpenTelemetry | 
 | 25 June '26 | [PlatformCon NYC](https://platformcon.com/live-day-nyc) | Making Observability a First-Class Platform Concern |
 | 26 June '26 | [OTel Night NYC](https://ocgroups.dev/cncf/group/5pcu8cb/event/pv5u8yj) | Host |
 | 3 July '26 | [Cloud Native São Paulo](https://ocgroups.dev/cncf/group/67qq48e) | A Porta de Entrada do OTel Está Quebrada. Vamos consertá-la. |
