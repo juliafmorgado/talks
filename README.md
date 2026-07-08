@@ -14,10 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 23 June '26 | [Boston Kubernetes Meetup](https://www.meetup.com/boston-kubernetes-meetup/events/314965246/) | What Nobody Tells You When You Start With OpenTelemetry | 
-| 25 June '26 | [PlatformCon NYC](https://platformcon.com/live-day-nyc) | Making Observability a First-Class Platform Concern |
-| 26 June '26 | [OTel Night NYC](https://ocgroups.dev/cncf/group/5pcu8cb/event/pv5u8yj) | Host |
-| 3 July '26 | [Cloud Native São Paulo](https://ocgroups.dev/cncf/group/67qq48e) | A Porta de Entrada do OTel Está Quebrada. Vamos consertá-la. |
+| 1 September '26 | [KCD SF Bay Area](https://community2.cncf.io/events/details/cncf-kcd-sf-bay-area-presents-kcd-san-francisco-bay-area-2026/) | Why Is Everyone Still Sending Raw Data? |
 | 22 October '26 | [Cloud Native Days Poland](https://cloudnativedayspoland.org/) | Keynote - The Trace I Never Instrumented |
 
 
@@ -26,6 +23,10 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 3 July '26 | [Cloud Native São Paulo](https://ocgroups.dev/cncf/group/67qq48e) | A Porta de Entrada do OTel Está Quebrada. Vamos consertá-la. |
+| 26 June '26 | [OTel Night NYC](https://ocgroups.dev/cncf/group/5pcu8cb/event/pv5u8yj) | Host |
+| 25 June '26 | [PlatformCon NYC](https://platformcon.com/live-day-nyc) | Making Observability a First-Class Platform Concern |
+| 23 June '26 | [Boston Kubernetes Meetup](https://www.meetup.com/boston-kubernetes-meetup/events/314965246/) | What Nobody Tells You When You Start With OpenTelemetry | 
 | 17 June '26 | [Cloud Native Costa Rica](https://ocgroups.dev/cncf/group/zwnkn4q/event/9bwf3cz) | La Guía de OpenTelemetry y Carrera que Me Hubiera Gustado Tener |
 | 11 June '26 | [LowOps Channel](https://www.youtube.com/watch?v=mnViGE6lqPM) | Da advocacia ao Cloud Native global: carreira internacional com Julia Furst Morgado |
 | 10 June '26 | [KCD New York](https://kcdnewyork.com/) | Opening and OpenTelemetry Roundtable |
