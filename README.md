@@ -14,6 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
+| 1 August '26 | [Cloud Native Maringá](https://ocgroups.dev/cncf/group/cloudnativemaringa) | 30 Dias Aprendendo OTel em Público |
 | 1 September '26 | [KCD SF Bay Area](https://community2.cncf.io/events/details/cncf-kcd-sf-bay-area-presents-kcd-san-francisco-bay-area-2026/) | Why Is Everyone Still Sending Raw Data? |
 | 22 October '26 | [Cloud Native Days Poland](https://cloudnativedayspoland.org/) | Keynote: Uninstrumented |
 
