@@ -16,6 +16,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
 | 1 August '26 | [Cloud Native Maringá](https://ocgroups.dev/cncf/group/cloudnativemaringa) | 30 Dias Aprendendo OTel em Público |
 | 1 September '26 | [KCD SF Bay Area](https://community2.cncf.io/events/details/cncf-kcd-sf-bay-area-presents-kcd-san-francisco-bay-area-2026/) | Why Is Everyone Still Sending Raw Data? |
+| 23 September '26 | [We Are Developers NA](https://www.wearedevelopers.com/world-congress-north-america) | Your Agents Need Observability Before They Need Better Models |
 | 22 October '26 | [Cloud Native Days Poland](https://cloudnativedayspoland.org/) | Keynote: Uninstrumented |
 
 
