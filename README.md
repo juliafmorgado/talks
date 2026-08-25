@@ -14,7 +14,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 1 August '26 | [Cloud Native Maringá](https://ocgroups.dev/cncf/group/cloudnativemaringa) | 30 Dias Aprendendo OTel em Público |
 | 1 September '26 | [KCD SF Bay Area](https://community2.cncf.io/events/details/cncf-kcd-sf-bay-area-presents-kcd-san-francisco-bay-area-2026/) | Why Is Everyone Still Sending Raw Data? |
 | 23 September '26 | [We Are Developers NA](https://www.wearedevelopers.com/world-congress-north-america) | Your Agents Need Observability Before They Need Better Models |
 | 22 October '26 | [Cloud Native Days Poland](https://cloudnativedayspoland.org/) | Keynote: Uninstrumented |
@@ -25,6 +24,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 1 August '26 | [Cloud Native Maringá](https://ocgroups.dev/cncf/group/cloudnativemaringa) | 30 Dias Aprendendo OTel em Público |
 | 3 July '26 | [Cloud Native São Paulo](https://ocgroups.dev/cncf/group/67qq48e) | A Porta de Entrada do OTel Está Quebrada. Vamos consertá-la. |
 | 26 June '26 | [OTel Night NYC](https://ocgroups.dev/cncf/group/5pcu8cb/event/pv5u8yj) | Host |
 | 25 June '26 | [PlatformCon NYC](https://platformcon.com/live-day-nyc) | Making Observability a First-Class Platform Concern |
