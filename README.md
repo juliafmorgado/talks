@@ -20,7 +20,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 | 22 October '26 | [Cloud Native Days Poland](https://cloudnativedayspoland.org/) | Keynote: Uninstrumented |
 | 9 November '26 | [Platform Engineering Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/platform-engineering-day/) | Automated Resource Allocation Driven by Service Level Objectives |
 | 9 November '26 | [Observability Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/observability-day/) | OTel and Linkerd: A Match Made in Observability Heaven |
-| 12 November '26 | [KubeConNA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Your Voice on Stage: The Delivery & Storytelling Lab |
+| 12 November '26 | [KubeConNA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/?id=1340074) | Your Voice on Stage: The Delivery & Storytelling Lab |
 | 2 December '26 | [re:Invent](https://aws.amazon.com/events/reinvent/) | [Autonomous Remediation with OpenTelemetry and AWS Devops Agent](https://reinvent-planner.cloud/aws/reinvent/2026/sessions?catalog.view=cards&catalog.pageSize=50&catalog.pageIndex=0&speakers=Julia+Furst+Morgado%2CRaphael+Manke&catalog.cardSize=large) |
 
 
