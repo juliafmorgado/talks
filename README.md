@@ -14,8 +14,6 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 23 September '26 | [We Are Developers NA](https://www.wearedevelopers.com/world-congress-north-america) | Your Agents Need Observability Before They Need Better Models |
-| 23 September '26 | [We Are Developers NA](https://www.wearedevelopers.com/world-congress-north-america) | [From Signal to Action: Empowering Your AI SRE with OpenTelemetry Data](https://dash0hq.github.io/otel-pizza-workshop/) |
 | 2 October '26 | [AWS Community Day DMV](https://www.dmvcommunityday.com/) | Where AWS Meets Open Source |
 | 22 October '26 | [Cloud Native Days Poland](https://cloudnativedayspoland.org/) | Keynote: Uninstrumented |
 | 9 November '26 | [Platform Engineering Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/platform-engineering-day/) | Automated Resource Allocation Driven by Service Level Objectives |
@@ -29,6 +27,8 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 23 September '26 | [We Are Developers NA](https://www.wearedevelopers.com/world-congress-north-america) | Your Agents Need Observability Before They Need Better Models |
+| 23 September '26 | [We Are Developers NA](https://www.wearedevelopers.com/world-congress-north-america) | [From Signal to Action: Empowering Your AI SRE with OpenTelemetry Data](https://dash0hq.github.io/otel-pizza-workshop/) |
 | 1 September '26 | [KCD SF Bay Area](https://community2.cncf.io/events/details/cncf-kcd-sf-bay-area-presents-kcd-san-francisco-bay-area-2026/) | [Why Is Everyone Still Sending Raw Data?](https://www.youtube.com/watch?v=NrfC2Tb8ZSI&list=PLQYdzzICWra0&index=6) |
 | 1 August '26 | [Cloud Native Maringá](https://ocgroups.dev/cncf/group/cloudnativemaringa) | 30 Dias Aprendendo OTel em Público |
 | 3 July '26 | [Cloud Native São Paulo](https://ocgroups.dev/cncf/group/67qq48e) | A Porta de Entrada do OTel Está Quebrada. Vamos consertá-la. |
