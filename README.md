@@ -14,6 +14,7 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
+| 5 November '26 | [Inference Day](https://modelplane.ai/inference-day) | Live Conversations on the Future of AI Infrastructure |
 | 9 November '26 | [Platform Engineering Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-schedule/?id=1249654) | Automated Resource Allocation Driven by Service Level Objectives |
 | 9 November '26 | [Observability Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-schedule/?id=1259095) | OTel and Linkerd: A Match Made in Observability Heaven |
 | 12 November '26 | [KubeConNA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/?id=1340074) | Your Voice on Stage: The Delivery & Storytelling Lab |
