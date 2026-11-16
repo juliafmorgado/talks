@@ -14,11 +14,9 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 5 November '26 | [Inference Day](https://modelplane.ai/inference-day) | Live Conversations on the Future of AI Infrastructure |
-| 9 November '26 | [Platform Engineering Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-schedule/?id=1249654) | Automated Resource Allocation Driven by Service Level Objectives |
-| 9 November '26 | [Observability Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-schedule/?id=1259095) | OTel and Linkerd: A Match Made in Observability Heaven |
-| 12 November '26 | [KubeConNA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/?id=1340074) | Your Voice on Stage: The Delivery & Storytelling Lab |
 | 2 December '26 | [re:Invent](https://aws.amazon.com/events/reinvent/) | [Autonomous Remediation with OpenTelemetry and AWS Devops Agent](https://reinvent-planner.cloud/aws/reinvent/2026/sessions?catalog.view=cards&catalog.pageSize=50&catalog.pageIndex=0&speakers=Julia+Furst+Morgado%2CRaphael+Manke&catalog.cardSize=large) |
+| 29 March '27 | [Dev/Nexus](https://devnexus.com/) | Following the Trail of a Rogue AI Agent with OpenTelemetry |
+
 
 
 
@@ -26,6 +24,10 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 Date|Conference/Meetup|Talk
 :---------:|:---------------:|:--:|
+| 12 November '26 | [KubeConNA 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/?id=1340074) | Your Voice on Stage: The Delivery & Storytelling Lab |
+| 9 November '26 | [Platform Engineering Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-schedule/?id=1249654) | Automated Resource Allocation Driven by Service Level Objectives |
+| 9 November '26 | [Observability Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cncf-hosted-co-located-schedule/?id=1259095) | OTel and Linkerd: A Match Made in Observability Heaven |
+| 5 November '26 | [Inference Day](https://modelplane.ai/inference-day) | Live Conversations on the Future of AI Infrastructure |
 | 22 October '26 | [Cloud Native Days Poland](https://cloudnativedayspoland.org/) | Keynote: Uninstrumented |
 | 2 October '26 | [AWS Community Day DMV](https://www.dmvcommunityday.com/) | Where AWS Meets Open Source |
 | 23 September '26 | [We Are Developers NA](https://www.wearedevelopers.com/world-congress-north-america) | Your Agents Need Observability Before They Need Better Models |
