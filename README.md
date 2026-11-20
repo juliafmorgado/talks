@@ -14,7 +14,9 @@ Check out my [speaker rider](./speaker-rider.md) if you'd like me to speak at yo
 
 | Date & Time  | Conference/Meetup       | Title                                                       |
 |:------------:|:-----------------------:|:-----------------------------------------------------------:|
-| 2 December '26 | [re:Invent](https://aws.amazon.com/events/reinvent/) | [Autonomous Remediation with OpenTelemetry and AWS Devops Agent](https://reinvent-planner.cloud/aws/reinvent/2026/sessions?catalog.view=cards&catalog.pageSize=50&catalog.pageIndex=0&speakers=Julia+Furst+Morgado%2CRaphael+Manke&catalog.cardSize=large) |
+| 30 November '26 | [re:Invent](https://aws.amazon.com/events/reinvent/) | [Autonomous Remediation with OpenTelemetry and AWS Devops Agent](https://reinvent-planner.cloud/aws/reinvent/2026/sessions?catalog.view=cards&catalog.pageSize=50&catalog.pageIndex=0&speakers=Julia+Furst+Morgado%2CRaphael+Manke&catalog.cardSize=large) |
+| 2 December '26 | [re:Invent](https://aws.amazon.com/events/reinvent/) | [Session repeat: Autonomous Remediation with OpenTelemetry and AWS Devops Agent](https://reinvent-planner.cloud/aws/reinvent/2026/sessions?catalog.view=cards&catalog.pageSize=50&catalog.pageIndex=0&speakers=Julia+Furst+Morgado%2CRaphael+Manke&catalog.cardSize=large) |
+| 2 December '26 | [re:Invent](https://aws.amazon.com/events/reinvent/) | [Women Who Build, Lead & Scale (COM105)](https://registration.awsevents.com/flow/awsevents/reinvent2026/event-catalog/page/eventCatalog?search=Women%20Who%20Build%2C%20Lead%20%26%20Scale%20(COM105)) |
 | 29 March '27 | [Dev/Nexus](https://devnexus.com/) | Following the Trail of a Rogue AI Agent with OpenTelemetry |
 
 
